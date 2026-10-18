@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6904,
+      "chars": 6715,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5651,
+      "chars": 5628,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 9084,
+      "chars": 9168,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,7 +29,7 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 6700,
+      "chars": 6844,
       "preview": "[RSS · 20 items] Avion Papier | Sat, 17 Oct 2026 | https://34.agendaculturel.fr/jeune-public/beziers"
     },
     {
@@ -37,16 +37,16 @@
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6611,
-      "preview": "[RSS · 20 items] Un mari par intérim | Fri, 16 Oct 2026 | https://30.agendaculturel.fr/theatre/nimes"
+      "chars": 6573,
+      "preview": "[RSS · 20 items] Tomber du ciel | Sun, 18 Oct 2026 | https://30.agendaculturel.fr/exposition/nimes/t"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6956,
-      "preview": "[RSS · 20 items] Crash Test | Sat, 17 Oct 2026 | https://13.agendaculturel.fr/theatre/marseille/cras"
+      "chars": 6847,
+      "preview": "[RSS · 20 items] La Voie est libre - Édition spéciale : Marseille fête la mer ! | Sun, 18 Oct 2026 |"
     },
     {
       "name": "Montpellier Events",
@@ -61,8 +61,8 @@
       "url": "https://icisete.fr/",
       "method": "RSS",
       "items": 5,
-      "chars": 1961,
-      "preview": "[RSS · 5 items] Marché artisanal de Noël à Sète : candidatures ouvertes jusqu’au 12 novembre | Fri, "
+      "chars": 1958,
+      "preview": "[RSS · 5 items] La Chocolaterie Severac décroche la prestigieuse « Tablette d’Or » | Sat, 17 Oct 202"
     },
     {
       "name": "EscapadesLR Hérault",
@@ -93,7 +93,7 @@
       "url": "https://www.victoire2.com/",
       "method": "texte",
       "items": 0,
-      "chars": 1242,
+      "chars": 1214,
       "preview": "Victoire 2 – Salle de concert et studios à Montpellier Victoire 2 – Salle de concert et studios à Sa"
     },
     {
@@ -117,7 +117,7 @@
       "url": "https://www.domainedo.fr/spectacles/tous-les-spectacles",
       "method": "texte",
       "items": 0,
-      "chars": 1066,
+      "chars": 1044,
       "preview": "| Cité européenne du théâtre Domaine d'O Montpellier Aller au contenu principal Tous les spectacles "
     },
     {
@@ -165,16 +165,16 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 5899,
+      "chars": 5900,
       "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
       "name": "Le Dôme Marseille",
       "url": "https://dome.marseille.fr/programmation",
-      "method": "erreur",
+      "method": "texte",
       "items": 0,
-      "chars": 19,
-      "preview": "[Timeout après 10s]"
+      "chars": 175,
+      "preview": "PROCHAINEMENT | Le Dôme de Marseille - Ville de Marseille Aller au contenu principal LEGENDARY ROCK "
     },
     {
       "name": "La Friche Belle de Mai",
@@ -205,7 +205,7 @@
       "url": "https://scene-de-bayssan.herault.fr/1090-programmation.htm",
       "method": "texte",
       "items": 0,
-      "chars": 2279,
+      "chars": 2345,
       "preview": "Programme culturel | Scène de Bayssan - Site de la Scène de Bayssan Découvrez les sites et organisme"
     },
     {
@@ -213,8 +213,8 @@
       "url": "https://www.jds.fr/montpellier/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
       "items": 25,
-      "chars": 8187,
-      "preview": "[JSON-LD · 25 événements] Legend Tour By Trade Republic - du Podcast au Show - Tournée | 2026-10-17 "
+      "chars": 8175,
+      "preview": "[JSON-LD · 25 événements] Redouane Bougheraba - Mon Premier Spectacle - Tournée des Zénith | 2026-12"
     },
     {
       "name": "JDS Humour Nîmes",
@@ -316,9 +316,9 @@
       "name": "Jazz à Sète",
       "url": "https://www.jazzasete.com/programmation/",
       "method": "RSS",
-      "items": 8,
-      "chars": 538,
-      "preview": "[RSS · 8 items] cache | Wed, 01 Jan 2020 | https://www.jazzasete.com/cache-3/ | cache cache | Wed, 0"
+      "items": 9,
+      "chars": 600,
+      "preview": "[RSS · 9 items] x | Wed, 01 Jan 2020 | https://www.jazzasete.com/x-6/ | cache cache | Wed, 01 Jan 20"
     },
     {
       "name": "Festival Radio France Occitanie",
@@ -347,17 +347,17 @@
     {
       "name": "Kidiklik Montpellier-Nîmes",
       "url": "https://montpellier-nimes.kidiklik.fr/",
-      "method": "erreur",
+      "method": "texte",
       "items": 0,
-      "chars": 19,
-      "preview": "[Timeout après 10s]"
+      "chars": 3579,
+      "preview": "Le meilleur des sorties pour enfants - Montpellier à Nîmes - Kidiklik Sorry, you need to enable Java"
     },
     {
       "name": "AlloCiné Pathé Odysseum",
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 8634,
+      "chars": 8459,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -382,10 +382,10 @@
     "sources_skip": 0,
     "sources_rss": 14,
     "sources_jsonld": 4,
-    "sources_text": 26,
-    "sources_erreur": 3,
-    "total_items_structured": 198,
-    "total_chars": 164022
+    "sources_text": 28,
+    "sources_erreur": 1,
+    "total_items_structured": 199,
+    "total_chars": 167496
   },
-  "timestamp": "2026-10-17T10:06:22Z"
+  "timestamp": "2026-10-18T10:20:16Z"
 }
