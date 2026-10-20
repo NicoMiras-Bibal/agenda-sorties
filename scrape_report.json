@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6795,
+      "chars": 6824,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5723,
+      "chars": 5709,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 9258,
+      "chars": 9176,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,31 +29,31 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 6943,
-      "preview": "[RSS · 20 items] Broc Comedy Club | Sun, 18 Oct 2026 | https://34.agendaculturel.fr/theatre/montpell"
+      "chars": 6827,
+      "preview": "[RSS · 20 items] Castries - Visite du Château de Lumières | Tue, 20 Oct 2026 | https://34.agendacult"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6594,
-      "preview": "[RSS · 20 items] Tomber du ciel | Sun, 18 Oct 2026 | https://30.agendaculturel.fr/exposition/nimes/t"
+      "chars": 6690,
+      "preview": "[RSS · 20 items] Le bureau des monstres | Tue, 20 Oct 2026 | https://30.agendaculturel.fr/jeune-publ"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7265,
-      "preview": "[RSS · 20 items] Voix Publiques - Louisa Babari | Fri, 16 Oct 2026 | https://13.agendaculturel.fr/ex"
+      "chars": 7018,
+      "preview": "[RSS · 20 items] Dessiner dans l'espace, Julio González | Tue, 20 Oct 2026 | https://13.agendacultur"
     },
     {
       "name": "Montpellier Events",
       "url": "https://www.montpellier-events.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 665,
+      "chars": 582,
       "preview": "L'agenda et la programmation - Montpellier Events Retrouvez ici toute la programmation du Rechercher"
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://icisete.fr/",
       "method": "RSS",
       "items": 5,
-      "chars": 1958,
-      "preview": "[RSS · 5 items] La Chocolaterie Severac décroche la prestigieuse « Tablette d’Or » | Sat, 17 Oct 202"
+      "chars": 1977,
+      "preview": "[RSS · 5 items] Commission locale de l’eau du bassin de Thau : Vincent Sabatier élu président | Tue,"
     },
     {
       "name": "EscapadesLR Hérault",
@@ -85,8 +85,8 @@
       "url": "https://www.corum-montpellier.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 386,
-      "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... ANNULÉ ET REPORTÉ"
+      "chars": 303,
+      "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... REPORTÉ le 15 jan"
     },
     {
       "name": "Victoire 2 Saint-Jean-de-Védas",
@@ -220,9 +220,9 @@
       "name": "JDS Humour Nîmes",
       "url": "https://www.jds.fr/nimes/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
-      "items": 20,
-      "chars": 6572,
-      "preview": "[JSON-LD · 20 événements] Noëlle Perna - Mado Fait son Cabaret | 2027-02-27 | Vergeze Espace, Vergèz"
+      "items": 21,
+      "chars": 6872,
+      "preview": "[JSON-LD · 21 événements] Noëlle Perna - Mado Fait son Cabaret | 2027-02-27 | Vergeze Espace, Vergèz"
     },
     {
       "name": "Fnac Humour Montpellier",
@@ -237,8 +237,8 @@
       "url": "https://adamconcerts.com/programmation/theatre-humour/",
       "method": "RSS",
       "items": 10,
-      "chars": 2918,
-      "preview": "[RSS · 10 items] ELECTRIC PYRAMID | Mon, 19 Oct 2026 | https://adamconcerts.com/electric-pyramid-657"
+      "chars": 2930,
+      "preview": "[RSS · 10 items] NORDINE GANSO | Tue, 20 Oct 2026 | https://adamconcerts.com/nordine-ganso-65677/ | "
     },
     {
       "name": "Marseille Comedy Club",
@@ -349,7 +349,7 @@
       "url": "https://montpellier-nimes.kidiklik.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 3127,
+      "chars": 3265,
       "preview": "Le meilleur des sorties pour enfants - Montpellier à Nîmes - Kidiklik Sorry, you need to enable Java"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 8094,
+      "chars": 9897,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 4101,
+      "chars": 5288,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -384,8 +384,8 @@
     "sources_jsonld": 4,
     "sources_text": 28,
     "sources_erreur": 1,
-    "total_items_structured": 199,
-    "total_chars": 166521
+    "total_items_structured": 200,
+    "total_chars": 169480
   },
-  "timestamp": "2026-10-19T12:02:02Z"
+  "timestamp": "2026-10-20T10:53:30Z"
 }
