@@ -1,25 +1,25 @@
-[generate.py] 2026-10-20
+[generate.py] 2026-10-21
 Lecture agenda-config.md...
   29 événements manuels
 /home/runner/work/agenda-sorties/agenda-sorties/generate.py:346: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   ts = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 Scraping des sources...
   [1/47] Scraping : JDS Montpellier
-    → texte, 6824 chars
+    → texte, 6768 chars
   [2/47] Scraping : JDS Nîmes
-    → texte, 5709 chars
+    → texte, 5881 chars
   [3/47] Scraping : JDS Marseille
-    → texte, 9176 chars
+    → texte, 9225 chars
   [4/47] Scraping : Agenda Culturel 34 Montpellier
-    → RSS, 6827 chars, 20 items
+    → RSS, 6853 chars, 20 items
   [5/47] Scraping : Agenda Culturel 30 Nîmes
-    → RSS, 6690 chars, 20 items
+    → RSS, 6660 chars, 20 items
   [6/47] Scraping : Agenda Culturel 13 Marseille
-    → RSS, 7018 chars, 20 items
+    → RSS, 7269 chars, 20 items
   [7/47] Scraping : Montpellier Events
     → texte, 582 chars
   [8/47] Scraping : IciSète
-    → RSS, 1977 chars, 5 items
+    → RSS, 1955 chars, 5 items
   [9/47] Scraping : EscapadesLR Hérault
     → JSON-LD, 25 chars, 1 items
   [10/47] Scraping : Zénith Sud Montpellier
@@ -27,7 +27,7 @@ Scraping des sources...
   [11/47] Scraping : Le Corum Montpellier
     → texte, 303 chars
   [12/47] Scraping : Victoire 2 Saint-Jean-de-Védas
-    → texte, 1214 chars
+    → texte, 1204 chars
   [13/47] Scraping : Théâtre Jean Vilar Montpellier
     → texte, 4152 chars
   [14/47] Scraping : Opéra Comédie Montpellier
@@ -35,13 +35,13 @@ Scraping des sources...
   [15/47] Scraping : Domaine d'O Montpellier
     → texte, 1044 chars
   [16/47] Scraping : Le Jam Montpellier (jazz)
-    → RSS, 3546 chars, 10 items
+    → RSS, 3507 chars, 10 items
   [17/47] Scraping : Halle Tropisme Montpellier
     → texte, 12000 chars
   [18/47] Scraping : Paloma Nîmes
     → RSS, 3907 chars, 10 items
   [19/47] Scraping : Festival de Nîmes
-    → texte, 62 chars
+    → texte, 36 chars
   [20/47] Scraping : Théâtre de Nîmes
     → RSS, 1732 chars, 10 items
   [21/47] Scraping : Le Silo Marseille
@@ -59,11 +59,11 @@ Scraping des sources...
   [27/47] Scraping : JDS Humour Montpellier
     → JSON-LD, 8247 chars, 25 items
   [28/47] Scraping : JDS Humour Nîmes
-    → JSON-LD, 6872 chars, 21 items
+    → JSON-LD, 7844 chars, 24 items
   [29/47] Scraping : Fnac Humour Montpellier
     → erreur, 19 chars
   [30/47] Scraping : Adam Concerts Humour
-    → RSS, 2930 chars, 10 items
+    → RSS, 2986 chars, 10 items
   [31/47] Scraping : Marseille Comedy Club
     → RSS, 621 chars, 2 items
   [32/47] Scraping : Garage Comedy Marseille
@@ -93,13 +93,13 @@ Scraping des sources...
   [44/47] Scraping : Kidiklik Montpellier-Nîmes
     → texte, 3265 chars
   [45/47] Scraping : AlloCiné Pathé Odysseum
-    → texte, 9897 chars
+    → texte, 9204 chars
   [46/47] Scraping : AlloCiné Mégarama Saint-Gély
-    → texte, 5288 chars
+    → texte, 5108 chars
   [47/47] Scraping : Arènes de Béziers Feria 2026
     → RSS, 2013 chars, 10 items
 Sauvegarde scrape_report.json...
-  47 sources — RSS:14 JSON-LD:4 texte:28 skip:0 erreur:1 | 200 items structurés
+  47 sources — RSS:14 JSON-LD:4 texte:28 skip:0 erreur:1 | 203 items structurés
 Recherches Gemini Search (couche 3)...
   [Gemini] gemini-2.0-flash : modèle non disponible
   [Gemini] gemini-2.0-flash-lite : modèle non disponible
@@ -136,15 +136,15 @@ Recherches Gemini Search (couche 3)...
   [Gemini 15/15] Films cinéma Pathé Odysseum
     → Erreur : ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-
   Gemini non disponible — pipeline continue avec scrape seul
-  Scrape tronqué : 173186 → 110000 chars
+  Scrape tronqué : 173656 → 110000 chars
   Contenu total Claude : 110000 chars (scrape seul)
 Conversion événements manuels...
   0 événements confirmés (agenda-config.md)
 Extraction nouveaux événements depuis le scrape + Gemini (claude-haiku-4-5)...
-  [Claude raw début] '```json\n[{"date":"2026-10-20","titre":"Castries - Visite du Château de Lumières","cat":"expo","lieu":"Castries, Hérault","note":"Exposition d\'œuvres lumineuses","fils":false,"stars":1,"section":"expos","url":"https://34.agendaculturel.fr/exposition/castries/castries-visite-du-chateau-de-lumieres.htm'
-  145 nouveaux événements extraits depuis les sources
-  Filtre scrapés : -15 passés, -0 génériques, 0 cat. corrigées → 130 retenus
-  Total : 130 événements (0 manuels + 130 scrapés)
+  [Claude raw début] '```json\n[{"date":"2026-10-21","titre":"Bouhhh","cat":"theatre","lieu":"Montpellier","note":"Spectacle pour enfants","fils":true,"stars":1,"section":"expos","url":"https://34.agendaculturel.fr/jeune-public/montpellier/bouhhh.html","gratuit":false,"groupe":""},{"date":"2026-10-21","titre":"Vanille ou '
+  134 nouveaux événements extraits depuis les sources
+  Filtre scrapés : -18 passés, -0 génériques, 0 cat. corrigées → 116 retenus
+  Total : 116 événements (0 manuels + 116 scrapés)
 Sauvegarde events_extracted.json...
 Injection dans template2.html...
 index.html généré avec succès.

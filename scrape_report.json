@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6824,
+      "chars": 6768,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5709,
+      "chars": 5881,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 9176,
+      "chars": 9225,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,24 +29,24 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 6827,
-      "preview": "[RSS · 20 items] Castries - Visite du Château de Lumières | Tue, 20 Oct 2026 | https://34.agendacult"
+      "chars": 6853,
+      "preview": "[RSS · 20 items] Bouhhh | Wed, 21 Oct 2026 | https://34.agendaculturel.fr/jeune-public/montpellier/b"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6690,
-      "preview": "[RSS · 20 items] Le bureau des monstres | Tue, 20 Oct 2026 | https://30.agendaculturel.fr/jeune-publ"
+      "chars": 6660,
+      "preview": "[RSS · 20 items] Le bureau des monstres | Wed, 21 Oct 2026 | https://30.agendaculturel.fr/jeune-publ"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7018,
-      "preview": "[RSS · 20 items] Dessiner dans l'espace, Julio González | Tue, 20 Oct 2026 | https://13.agendacultur"
+      "chars": 7269,
+      "preview": "[RSS · 20 items] Au-delà de l'éphémère, Émile Ghigo, le vrai du faux | Wed, 21 Oct 2026 | https://13"
     },
     {
       "name": "Montpellier Events",
@@ -61,8 +61,8 @@
       "url": "https://icisete.fr/",
       "method": "RSS",
       "items": 5,
-      "chars": 1977,
-      "preview": "[RSS · 5 items] Commission locale de l’eau du bassin de Thau : Vincent Sabatier élu président | Tue,"
+      "chars": 1955,
+      "preview": "[RSS · 5 items] Gare d’Agde : nouveaux travaux avenue Victor Hugo et au parking est | Tue, 20 Oct 20"
     },
     {
       "name": "EscapadesLR Hérault",
@@ -93,7 +93,7 @@
       "url": "https://www.victoire2.com/",
       "method": "texte",
       "items": 0,
-      "chars": 1214,
+      "chars": 1204,
       "preview": "Victoire 2 – Salle de concert et studios à Montpellier Victoire 2 – Salle de concert et studios à Sa"
     },
     {
@@ -125,8 +125,8 @@
       "url": "https://www.lejam.com/",
       "method": "RSS",
       "items": 10,
-      "chars": 3546,
-      "preview": "[RSS · 10 items] ✨NOUVEAUTÉS 2026/2027 DU JAM – ORCHESTRES À THÈME✨ | Tue, 22 Sep 2026 | https://www"
+      "chars": 3507,
+      "preview": "[RSS · 10 items] SHALOSH TRIO – LE 23/01 MANIFESTO ! présente | Sat, 23 Jan 2027 | https://www.lejam"
     },
     {
       "name": "Halle Tropisme Montpellier",
@@ -149,8 +149,8 @@
       "url": "https://www.festivaldenimes.com/programmation",
       "method": "texte",
       "items": 0,
-      "chars": 62,
-      "preview": "Artistes Archive - Festival de Nîmes 24 & 25 & 26 juillet 2026"
+      "chars": 36,
+      "preview": "Artistes Archive - Festival de Nîmes"
     },
     {
       "name": "Théâtre de Nîmes",
@@ -220,9 +220,9 @@
       "name": "JDS Humour Nîmes",
       "url": "https://www.jds.fr/nimes/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
-      "items": 21,
-      "chars": 6872,
-      "preview": "[JSON-LD · 21 événements] Noëlle Perna - Mado Fait son Cabaret | 2027-02-27 | Vergeze Espace, Vergèz"
+      "items": 24,
+      "chars": 7844,
+      "preview": "[JSON-LD · 24 événements] Le Diner De Cons - Le Diner De Cons Avec Anthony Joubert | 2027-01-17 | Ve"
     },
     {
       "name": "Fnac Humour Montpellier",
@@ -237,8 +237,8 @@
       "url": "https://adamconcerts.com/programmation/theatre-humour/",
       "method": "RSS",
       "items": 10,
-      "chars": 2930,
-      "preview": "[RSS · 10 items] NORDINE GANSO | Tue, 20 Oct 2026 | https://adamconcerts.com/nordine-ganso-65677/ | "
+      "chars": 2986,
+      "preview": "[RSS · 10 items] SLASH FEATURING MYLES KENNEDY & THE CONSPIRATORS | Wed, 21 Oct 2026 | https://adamc"
     },
     {
       "name": "Marseille Comedy Club",
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 9897,
+      "chars": 9204,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 5288,
+      "chars": 5108,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -384,8 +384,8 @@
     "sources_jsonld": 4,
     "sources_text": 28,
     "sources_erreur": 1,
-    "total_items_structured": 200,
-    "total_chars": 169480
+    "total_items_structured": 203,
+    "total_chars": 169950
   },
-  "timestamp": "2026-10-20T10:53:30Z"
+  "timestamp": "2026-10-21T11:06:29Z"
 }
