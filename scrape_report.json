@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6771,
+      "chars": 6760,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5834,
+      "chars": 5856,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 9097,
+      "chars": 9018,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,31 +29,31 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 7039,
-      "preview": "[RSS · 20 items] John Peter : Affaires Classées | Thu, 22 Oct 2026 | https://34.agendaculturel.fr/th"
+      "chars": 6860,
+      "preview": "[RSS · 20 items] La Terre, Ma Mère, Les Beatles | Fri, 23 Oct 2026 | https://34.agendaculturel.fr/ex"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6660,
-      "preview": "[RSS · 20 items] Concert lyrique de l'Académie du Bel Canto | Thu, 22 Oct 2026 | https://30.agendacu"
+      "chars": 6723,
+      "preview": "[RSS · 20 items] Tomber du ciel | Fri, 23 Oct 2026 | https://30.agendaculturel.fr/exposition/nimes/t"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7142,
-      "preview": "[RSS · 20 items] Au-delà de l'éphémère, Émile Ghigo, le vrai du faux | Thu, 22 Oct 2026 | https://13"
+      "chars": 7240,
+      "preview": "[RSS · 20 items] Serr Sere et Cheba Lambada | Fri, 23 Oct 2026 | https://13.agendaculturel.fr/concer"
     },
     {
       "name": "Montpellier Events",
       "url": "https://www.montpellier-events.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 671,
+      "chars": 722,
       "preview": "L'agenda et la programmation - Montpellier Events Retrouvez ici toute la programmation du Rechercher"
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://icisete.fr/",
       "method": "RSS",
       "items": 5,
-      "chars": 1955,
-      "preview": "[RSS · 5 items] Gare d’Agde : nouveaux travaux avenue Victor Hugo et au parking est | Tue, 20 Oct 20"
+      "chars": 1935,
+      "preview": "[RSS · 5 items] Sète décroche son troisième laurier Ville Active & Sportive en 2026 | Fri, 23 Oct 20"
     },
     {
       "name": "EscapadesLR Hérault",
@@ -85,7 +85,7 @@
       "url": "https://www.corum-montpellier.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 392,
+      "chars": 443,
       "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... REPORTÉ le 15 jan"
     },
     {
@@ -134,7 +134,7 @@
       "method": "texte",
       "items": 0,
       "chars": 12000,
-      "preview": "Halle Tropisme - Agenda jeu. 22 oct. de 14h00 à 16h00 Atelier création bijouterie Offrez-vous une bu"
+      "preview": "Halle Tropisme - Agenda ven. 23 oct. de 18h30 à 19h45 An idiot's guide to wine (Fever) One man show "
     },
     {
       "name": "Paloma Nîmes",
@@ -147,10 +147,10 @@
     {
       "name": "Festival de Nîmes",
       "url": "https://www.festivaldenimes.com/programmation",
-      "method": "erreur",
+      "method": "texte",
       "items": 0,
-      "chars": 32,
-      "preview": "[Indisponible : ConnectionError]"
+      "chars": 36,
+      "preview": "Artistes Archive - Festival de Nîmes"
     },
     {
       "name": "Théâtre de Nîmes",
@@ -165,8 +165,8 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 6076,
-      "preview": "Cepac Silo - Marseille | Site officiel THE VOICE OF GEORGE MICHAEL Cepac Silo – Site officiel | Bill"
+      "chars": 6362,
+      "preview": "Cepac Silo - Marseille | Site officiel ⚠️REPORT : La date de NAÏM, initialement prévue le 24/10/2026"
     },
     {
       "name": "Le Dôme Marseille",
@@ -205,7 +205,7 @@
       "url": "https://scene-de-bayssan.herault.fr/1090-programmation.htm",
       "method": "texte",
       "items": 0,
-      "chars": 1806,
+      "chars": 1859,
       "preview": "Programme culturel | Scène de Bayssan - Site de la Scène de Bayssan Découvrez les sites et organisme"
     },
     {
@@ -213,7 +213,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
       "items": 25,
-      "chars": 8247,
+      "chars": 8259,
       "preview": "[JSON-LD · 25 événements] Redouane Bougheraba - Mon Premier Spectacle - Tournée des Zénith | 2026-12"
     },
     {
@@ -221,8 +221,8 @@
       "url": "https://www.jds.fr/nimes/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
       "items": 24,
-      "chars": 7844,
-      "preview": "[JSON-LD · 24 événements] Le Diner De Cons - Le Diner De Cons Avec Anthony Joubert | 2027-01-17 | Ve"
+      "chars": 7800,
+      "preview": "[JSON-LD · 24 événements] Anthony Joubert - le Diner de Cons | 2027-01-17 | Vergeze Espace, Vergèze "
     },
     {
       "name": "Fnac Humour Montpellier",
@@ -307,10 +307,10 @@
     {
       "name": "Latinamap Festivals Été",
       "url": "https://latinamap.eu/festival-europe/festival-ete/",
-      "method": "erreur",
+      "method": "texte",
       "items": 0,
-      "chars": 32,
-      "preview": "[Indisponible : ConnectionError]"
+      "chars": 12000,
+      "preview": "Festival été 2026 : programmation latino juin, juillet, août Festival de l'été 2025 Danse de l'été l"
     },
     {
       "name": "Jazz à Sète",
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 10009,
+      "chars": 10342,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 5138,
+      "chars": 4943,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -382,10 +382,10 @@
     "sources_skip": 0,
     "sources_rss": 14,
     "sources_jsonld": 4,
-    "sources_text": 26,
-    "sources_erreur": 3,
+    "sources_text": 28,
+    "sources_erreur": 1,
     "total_items_structured": 203,
-    "total_chars": 158992
+    "total_chars": 171405
   },
-  "timestamp": "2026-10-22T11:06:28Z"
+  "timestamp": "2026-10-23T10:57:54Z"
 }
