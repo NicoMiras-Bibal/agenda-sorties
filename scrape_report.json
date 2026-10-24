@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6760,
+      "chars": 6713,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5856,
+      "chars": 5778,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 9018,
+      "chars": 8922,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,31 +29,31 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 6860,
-      "preview": "[RSS · 20 items] La Terre, Ma Mère, Les Beatles | Fri, 23 Oct 2026 | https://34.agendaculturel.fr/ex"
+      "chars": 6978,
+      "preview": "[RSS · 20 items] Global Discontent | Sat, 24 Oct 2026 | https://34.agendaculturel.fr/concert/saint-j"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6723,
-      "preview": "[RSS · 20 items] Tomber du ciel | Fri, 23 Oct 2026 | https://30.agendaculturel.fr/exposition/nimes/t"
+      "chars": 6537,
+      "preview": "[RSS · 20 items] Un mari par intérim | Fri, 23 Oct 2026 | https://30.agendaculturel.fr/theatre/nimes"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7240,
-      "preview": "[RSS · 20 items] Serr Sere et Cheba Lambada | Fri, 23 Oct 2026 | https://13.agendaculturel.fr/concer"
+      "chars": 6984,
+      "preview": "[RSS · 20 items] Plateau des élèves | Sat, 24 Oct 2026 | https://13.agendaculturel.fr/theatre/marsei"
     },
     {
       "name": "Montpellier Events",
       "url": "https://www.montpellier-events.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 722,
+      "chars": 752,
       "preview": "L'agenda et la programmation - Montpellier Events Retrouvez ici toute la programmation du Rechercher"
     },
     {
@@ -62,7 +62,7 @@
       "method": "RSS",
       "items": 5,
       "chars": 1935,
-      "preview": "[RSS · 5 items] Sète décroche son troisième laurier Ville Active & Sportive en 2026 | Fri, 23 Oct 20"
+      "preview": "[RSS · 5 items] Abbaye Saint-Félix-de-Montceau : la fin de la convention, deux points de vue | Fri, "
     },
     {
       "name": "EscapadesLR Hérault",
@@ -85,7 +85,7 @@
       "url": "https://www.corum-montpellier.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 443,
+      "chars": 473,
       "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... REPORTÉ le 15 jan"
     },
     {
@@ -125,8 +125,8 @@
       "url": "https://www.lejam.com/",
       "method": "RSS",
       "items": 10,
-      "chars": 3507,
-      "preview": "[RSS · 10 items] SHALOSH TRIO – LE 23/01 MANIFESTO ! présente | Sat, 23 Jan 2027 | https://www.lejam"
+      "chars": 3614,
+      "preview": "[RSS · 10 items] GIP INVITE LES MUSIQUES DU MONDE : KANDI GUIRA – LE 16/01 Association Jordelan prés"
     },
     {
       "name": "Halle Tropisme Montpellier",
@@ -134,7 +134,7 @@
       "method": "texte",
       "items": 0,
       "chars": 12000,
-      "preview": "Halle Tropisme - Agenda ven. 23 oct. de 18h30 à 19h45 An idiot's guide to wine (Fever) One man show "
+      "preview": "Halle Tropisme - Agenda sam. 24 oct. de 10h00 à 13h00 Atelier linogravure avec Laura Samé Atelier Li"
     },
     {
       "name": "Paloma Nîmes",
@@ -165,7 +165,7 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 6362,
+      "chars": 6367,
       "preview": "Cepac Silo - Marseille | Site officiel ⚠️REPORT : La date de NAÏM, initialement prévue le 24/10/2026"
     },
     {
@@ -205,7 +205,7 @@
       "url": "https://scene-de-bayssan.herault.fr/1090-programmation.htm",
       "method": "texte",
       "items": 0,
-      "chars": 1859,
+      "chars": 1837,
       "preview": "Programme culturel | Scène de Bayssan - Site de la Scène de Bayssan Découvrez les sites et organisme"
     },
     {
@@ -253,7 +253,7 @@
       "url": "https://garage-comedy.com/",
       "method": "texte",
       "items": 0,
-      "chars": 2623,
+      "chars": 3077,
       "preview": "Garage Comedy Club | Comedy Club et stand-up à Marseille Retrouvez chaque semaine notre programmatio"
     },
     {
@@ -349,7 +349,7 @@
       "url": "https://montpellier-nimes.kidiklik.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 3265,
+      "chars": 3415,
       "preview": "Le meilleur des sorties pour enfants - Montpellier à Nîmes - Kidiklik Sorry, you need to enable Java"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 10342,
+      "chars": 9535,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 4943,
+      "chars": 5138,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -385,7 +385,7 @@
     "sources_text": 28,
     "sources_erreur": 1,
     "total_items_structured": 203,
-    "total_chars": 171405
+    "total_chars": 171002
   },
-  "timestamp": "2026-10-23T10:57:54Z"
+  "timestamp": "2026-10-24T10:14:20Z"
 }
