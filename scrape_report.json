@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6713,
+      "chars": 6798,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5778,
+      "chars": 5685,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8922,
+      "chars": 8912,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,15 +29,15 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 6978,
-      "preview": "[RSS · 20 items] Global Discontent | Sat, 24 Oct 2026 | https://34.agendaculturel.fr/concert/saint-j"
+      "chars": 7131,
+      "preview": "[RSS · 20 items] « Sortilèges et magiciens : de Circé à Harry Potter » | Sun, 25 Oct 2026 | https://"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6537,
+      "chars": 6666,
       "preview": "[RSS · 20 items] Un mari par intérim | Fri, 23 Oct 2026 | https://30.agendaculturel.fr/theatre/nimes"
     },
     {
@@ -45,8 +45,8 @@
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6984,
-      "preview": "[RSS · 20 items] Plateau des élèves | Sat, 24 Oct 2026 | https://13.agendaculturel.fr/theatre/marsei"
+      "chars": 7234,
+      "preview": "[RSS · 20 items] Plateau des élèves | Sun, 25 Oct 2026 | https://13.agendaculturel.fr/theatre/marsei"
     },
     {
       "name": "Montpellier Events",
@@ -61,8 +61,8 @@
       "url": "https://icisete.fr/",
       "method": "RSS",
       "items": 5,
-      "chars": 1935,
-      "preview": "[RSS · 5 items] Abbaye Saint-Félix-de-Montceau : la fin de la convention, deux points de vue | Fri, "
+      "chars": 1941,
+      "preview": "[RSS · 5 items] La macaronade d’Oh Gobie à Sète à l’honneur sur M6 le 2 novembre | Sat, 24 Oct 2026 "
     },
     {
       "name": "EscapadesLR Hérault",
@@ -93,7 +93,7 @@
       "url": "https://www.victoire2.com/",
       "method": "texte",
       "items": 0,
-      "chars": 1178,
+      "chars": 1175,
       "preview": "Victoire 2 – Salle de concert et studios à Montpellier Victoire 2 – Salle de concert et studios à Sa"
     },
     {
@@ -134,7 +134,7 @@
       "method": "texte",
       "items": 0,
       "chars": 12000,
-      "preview": "Halle Tropisme - Agenda sam. 24 oct. de 10h00 à 13h00 Atelier linogravure avec Laura Samé Atelier Li"
+      "preview": "Halle Tropisme - Agenda dim. 25 oct. de 09h00 à 14h00 Tous les dimanches de 09h00 à 14h00 LE VIDE-GR"
     },
     {
       "name": "Paloma Nîmes",
@@ -165,16 +165,16 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 6367,
+      "chars": 6389,
       "preview": "Cepac Silo - Marseille | Site officiel ⚠️REPORT : La date de NAÏM, initialement prévue le 24/10/2026"
     },
     {
       "name": "Le Dôme Marseille",
       "url": "https://dome.marseille.fr/programmation",
-      "method": "texte",
+      "method": "erreur",
       "items": 0,
-      "chars": 175,
-      "preview": "PROCHAINEMENT | Le Dôme de Marseille - Ville de Marseille Aller au contenu principal LEGENDARY ROCK "
+      "chars": 19,
+      "preview": "[Timeout après 10s]"
     },
     {
       "name": "La Friche Belle de Mai",
@@ -341,7 +341,7 @@
       "url": "https://www.citizenkid.com/montpellier",
       "method": "texte",
       "items": 0,
-      "chars": 3852,
+      "chars": 3813,
       "preview": "Sortie enfant Montpellier, sélection d’activités et de sorties en famille sur Montpellier avec Citiz"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 9535,
+      "chars": 10722,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -382,10 +382,10 @@
     "sources_skip": 0,
     "sources_rss": 14,
     "sources_jsonld": 4,
-    "sources_text": 28,
-    "sources_erreur": 1,
+    "sources_text": 27,
+    "sources_erreur": 2,
     "total_items_structured": 203,
-    "total_chars": 171002
+    "total_chars": 172533
   },
-  "timestamp": "2026-10-24T10:14:20Z"
+  "timestamp": "2026-10-25T10:39:34Z"
 }
