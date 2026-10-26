@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6798,
+      "chars": 6784,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5685,
+      "chars": 5831,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8912,
+      "chars": 9075,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -37,16 +37,16 @@
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6666,
-      "preview": "[RSS · 20 items] Un mari par intérim | Fri, 23 Oct 2026 | https://30.agendaculturel.fr/theatre/nimes"
+      "chars": 6696,
+      "preview": "[RSS · 20 items] Le Manoir aux Fantômes Théâtre, frisson & humour pour les 6-12 ans | Mon, 26 Oct 20"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7234,
-      "preview": "[RSS · 20 items] Plateau des élèves | Sun, 25 Oct 2026 | https://13.agendaculturel.fr/theatre/marsei"
+      "chars": 7238,
+      "preview": "[RSS · 20 items] Au-delà de l'éphémère, Émile Ghigo, le vrai du faux | Thu, 22 Oct 2026 | https://13"
     },
     {
       "name": "Montpellier Events",
@@ -117,7 +117,7 @@
       "url": "https://www.domainedo.fr/spectacles/tous-les-spectacles",
       "method": "texte",
       "items": 0,
-      "chars": 1044,
+      "chars": 1085,
       "preview": "| Cité européenne du théâtre Domaine d'O Montpellier Aller au contenu principal Tous les spectacles "
     },
     {
@@ -134,7 +134,7 @@
       "method": "texte",
       "items": 0,
       "chars": 12000,
-      "preview": "Halle Tropisme - Agenda dim. 25 oct. de 09h00 à 14h00 Tous les dimanches de 09h00 à 14h00 LE VIDE-GR"
+      "preview": "Halle Tropisme - Agenda lun. 26 oct. de 20h15 à 21h45 Tous les lundis de 20h15 à 21h45 Cours de Dans"
     },
     {
       "name": "Paloma Nîmes",
@@ -165,16 +165,16 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 6389,
-      "preview": "Cepac Silo - Marseille | Site officiel ⚠️REPORT : La date de NAÏM, initialement prévue le 24/10/2026"
+      "chars": 6303,
+      "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
       "name": "Le Dôme Marseille",
       "url": "https://dome.marseille.fr/programmation",
-      "method": "erreur",
+      "method": "texte",
       "items": 0,
-      "chars": 19,
-      "preview": "[Timeout après 10s]"
+      "chars": 175,
+      "preview": "PROCHAINEMENT | Le Dôme de Marseille - Ville de Marseille Aller au contenu principal LEGENDARY ROCK "
     },
     {
       "name": "La Friche Belle de Mai",
@@ -220,9 +220,9 @@
       "name": "JDS Humour Nîmes",
       "url": "https://www.jds.fr/nimes/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
-      "items": 24,
-      "chars": 7800,
-      "preview": "[JSON-LD · 24 événements] Anthony Joubert - le Diner de Cons | 2027-01-17 | Vergeze Espace, Vergèze "
+      "items": 23,
+      "chars": 7510,
+      "preview": "[JSON-LD · 23 événements] Anthony Joubert - le Diner de Cons | 2027-01-17 | Vergeze Espace, Vergèze "
     },
     {
       "name": "Fnac Humour Montpellier",
@@ -237,8 +237,8 @@
       "url": "https://adamconcerts.com/programmation/theatre-humour/",
       "method": "RSS",
       "items": 10,
-      "chars": 2950,
-      "preview": "[RSS · 10 items] NAÏM | Thu, 22 Oct 2026 | https://adamconcerts.com/naim-14-65868/ | En raison des m"
+      "chars": 2949,
+      "preview": "[RSS · 10 items] FONTAINES D.C. | Mon, 26 Oct 2026 | https://adamconcerts.com/fontaines-d-c-65916/ |"
     },
     {
       "name": "Marseille Comedy Club",
@@ -341,7 +341,7 @@
       "url": "https://www.citizenkid.com/montpellier",
       "method": "texte",
       "items": 0,
-      "chars": 3813,
+      "chars": 3739,
       "preview": "Sortie enfant Montpellier, sélection d’activités et de sorties en famille sur Montpellier avec Citiz"
     },
     {
@@ -349,7 +349,7 @@
       "url": "https://montpellier-nimes.kidiklik.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 3415,
+      "chars": 3298,
       "preview": "Le meilleur des sorties pour enfants - Montpellier à Nîmes - Kidiklik Sorry, you need to enable Java"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 10722,
+      "chars": 10356,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 5138,
+      "chars": 5499,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -382,10 +382,10 @@
     "sources_skip": 0,
     "sources_rss": 14,
     "sources_jsonld": 4,
-    "sources_text": 27,
-    "sources_erreur": 2,
-    "total_items_structured": 203,
-    "total_chars": 172533
+    "sources_text": 28,
+    "sources_erreur": 1,
+    "total_items_structured": 202,
+    "total_chars": 172486
   },
-  "timestamp": "2026-10-25T10:39:34Z"
+  "timestamp": "2026-10-26T12:12:28Z"
 }
