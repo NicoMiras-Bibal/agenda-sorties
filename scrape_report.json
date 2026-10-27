@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6784,
+      "chars": 6871,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5831,
+      "chars": 5931,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 9075,
+      "chars": 9248,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,7 +29,7 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 7131,
+      "chars": 7145,
       "preview": "[RSS · 20 items] « Sortilèges et magiciens : de Circé à Harry Potter » | Sun, 25 Oct 2026 | https://"
     },
     {
@@ -37,16 +37,16 @@
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6696,
-      "preview": "[RSS · 20 items] Le Manoir aux Fantômes Théâtre, frisson & humour pour les 6-12 ans | Mon, 26 Oct 20"
+      "chars": 6720,
+      "preview": "[RSS · 20 items] Professeur Alapage : Les Mille et une nuits | Tue, 27 Oct 2026 | https://30.agendac"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7238,
-      "preview": "[RSS · 20 items] Au-delà de l'éphémère, Émile Ghigo, le vrai du faux | Thu, 22 Oct 2026 | https://13"
+      "chars": 7261,
+      "preview": "[RSS · 20 items] Exposition : \"Histoire des 2 canaux\" | Tue, 27 Oct 2026 | https://13.agendaculturel"
     },
     {
       "name": "Montpellier Events",
@@ -134,7 +134,7 @@
       "method": "texte",
       "items": 0,
       "chars": 12000,
-      "preview": "Halle Tropisme - Agenda lun. 26 oct. de 20h15 à 21h45 Tous les lundis de 20h15 à 21h45 Cours de Dans"
+      "preview": "Halle Tropisme - Agenda mar. 27 oct. de 11h30 à 16h30 Don de Sang (salle a) Le don de sang permet de"
     },
     {
       "name": "Paloma Nîmes",
@@ -149,8 +149,8 @@
       "url": "https://www.festivaldenimes.com/programmation",
       "method": "texte",
       "items": 0,
-      "chars": 36,
-      "preview": "Artistes Archive - Festival de Nîmes"
+      "chars": 636,
+      "preview": "Artistes Archive - Festival de Nîmes Prévente le 28/10 à 12h00   - Prévente le 28/10 à 12h00   - Pré"
     },
     {
       "name": "Théâtre de Nîmes",
@@ -165,7 +165,7 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 6303,
+      "chars": 5999,
       "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
@@ -220,9 +220,9 @@
       "name": "JDS Humour Nîmes",
       "url": "https://www.jds.fr/nimes/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
-      "items": 23,
-      "chars": 7510,
-      "preview": "[JSON-LD · 23 événements] Anthony Joubert - le Diner de Cons | 2027-01-17 | Vergeze Espace, Vergèze "
+      "items": 25,
+      "chars": 8090,
+      "preview": "[JSON-LD · 25 événements] Anthony Joubert - le Diner de Cons | 2027-01-17 | Vergeze Espace, Vergèze "
     },
     {
       "name": "Fnac Humour Montpellier",
@@ -237,8 +237,8 @@
       "url": "https://adamconcerts.com/programmation/theatre-humour/",
       "method": "RSS",
       "items": 10,
-      "chars": 2949,
-      "preview": "[RSS · 10 items] FONTAINES D.C. | Mon, 26 Oct 2026 | https://adamconcerts.com/fontaines-d-c-65916/ |"
+      "chars": 2924,
+      "preview": "[RSS · 10 items] NINHO | Tue, 27 Oct 2026 | https://adamconcerts.com/ninho-9-65948/ | NINHO DE RETOU"
     },
     {
       "name": "Marseille Comedy Club",
@@ -349,7 +349,7 @@
       "url": "https://montpellier-nimes.kidiklik.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 3298,
+      "chars": 3548,
       "preview": "Le meilleur des sorties pour enfants - Montpellier à Nîmes - Kidiklik Sorry, you need to enable Java"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 10356,
+      "chars": 10181,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -384,8 +384,8 @@
     "sources_jsonld": 4,
     "sources_text": 28,
     "sources_erreur": 1,
-    "total_items_structured": 202,
-    "total_chars": 172486
+    "total_items_structured": 204,
+    "total_chars": 173833
   },
-  "timestamp": "2026-10-26T12:12:28Z"
+  "timestamp": "2026-10-27T11:33:29Z"
 }
