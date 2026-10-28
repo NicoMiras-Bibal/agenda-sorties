@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6871,
+      "chars": 6904,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5931,
+      "chars": 5770,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 9248,
+      "chars": 9172,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,8 +29,8 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 7145,
-      "preview": "[RSS · 20 items] « Sortilèges et magiciens : de Circé à Harry Potter » | Sun, 25 Oct 2026 | https://"
+      "chars": 7086,
+      "preview": "[RSS · 20 items] Images culte du rock | Wed, 28 Oct 2026 | https://34.agendaculturel.fr/exposition/m"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
@@ -38,22 +38,22 @@
       "method": "RSS",
       "items": 20,
       "chars": 6720,
-      "preview": "[RSS · 20 items] Professeur Alapage : Les Mille et une nuits | Tue, 27 Oct 2026 | https://30.agendac"
+      "preview": "[RSS · 20 items] Professeur Alapage : Les Mille et une nuits | Wed, 28 Oct 2026 | https://30.agendac"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7261,
-      "preview": "[RSS · 20 items] Exposition : \"Histoire des 2 canaux\" | Tue, 27 Oct 2026 | https://13.agendaculturel"
+      "chars": 7493,
+      "preview": "[RSS · 20 items] Spectacle Halloween | Wed, 28 Oct 2026 | https://13.agendaculturel.fr/theatre/la-ba"
     },
     {
       "name": "Montpellier Events",
       "url": "https://www.montpellier-events.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 752,
+      "chars": 820,
       "preview": "L'agenda et la programmation - Montpellier Events Retrouvez ici toute la programmation du Rechercher"
     },
     {
@@ -85,7 +85,7 @@
       "url": "https://www.corum-montpellier.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 473,
+      "chars": 541,
       "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... REPORTÉ le 15 jan"
     },
     {
@@ -93,7 +93,7 @@
       "url": "https://www.victoire2.com/",
       "method": "texte",
       "items": 0,
-      "chars": 1175,
+      "chars": 1302,
       "preview": "Victoire 2 – Salle de concert et studios à Montpellier Victoire 2 – Salle de concert et studios à Sa"
     },
     {
@@ -134,7 +134,7 @@
       "method": "texte",
       "items": 0,
       "chars": 12000,
-      "preview": "Halle Tropisme - Agenda mar. 27 oct. de 11h30 à 16h30 Don de Sang (salle a) Le don de sang permet de"
+      "preview": "Halle Tropisme - Agenda Du mar. 27 oct. au dim. 01 nov. Exposition \"Un avenir dans le passé\" Une exp"
     },
     {
       "name": "Paloma Nîmes",
@@ -150,7 +150,7 @@
       "method": "texte",
       "items": 0,
       "chars": 636,
-      "preview": "Artistes Archive - Festival de Nîmes Prévente le 28/10 à 12h00   - Prévente le 28/10 à 12h00   - Pré"
+      "preview": "Artistes Archive - Festival de Nîmes Prévente le 29/10 à 10h00   - Prévente le 29/10 à 10h00   - Pré"
     },
     {
       "name": "Théâtre de Nîmes",
@@ -165,7 +165,7 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 5999,
+      "chars": 6062,
       "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
@@ -213,7 +213,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
       "items": 25,
-      "chars": 8259,
+      "chars": 8213,
       "preview": "[JSON-LD · 25 événements] Redouane Bougheraba - Mon Premier Spectacle - Tournée des Zénith | 2026-12"
     },
     {
@@ -237,8 +237,8 @@
       "url": "https://adamconcerts.com/programmation/theatre-humour/",
       "method": "RSS",
       "items": 10,
-      "chars": 2924,
-      "preview": "[RSS · 10 items] NINHO | Tue, 27 Oct 2026 | https://adamconcerts.com/ninho-9-65948/ | NINHO DE RETOU"
+      "chars": 2914,
+      "preview": "[RSS · 10 items] TOTO – CHRISTOPHER CROSS | Wed, 28 Oct 2026 | https://adamconcerts.com/toto-christo"
     },
     {
       "name": "Marseille Comedy Club",
@@ -349,7 +349,7 @@
       "url": "https://montpellier-nimes.kidiklik.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 3548,
+      "chars": 3675,
       "preview": "Le meilleur des sorties pour enfants - Montpellier à Nîmes - Kidiklik Sorry, you need to enable Java"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 10181,
+      "chars": 10838,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 5499,
+      "chars": 4825,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -385,7 +385,7 @@
     "sources_text": 28,
     "sources_erreur": 1,
     "total_items_structured": 204,
-    "total_chars": 173833
+    "total_chars": 174182
   },
-  "timestamp": "2026-10-27T11:33:29Z"
+  "timestamp": "2026-10-28T12:03:16Z"
 }
