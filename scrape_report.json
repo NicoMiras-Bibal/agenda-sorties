@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6904,
+      "chars": 6894,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5770,
+      "chars": 5767,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 9172,
+      "chars": 9343,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,15 +29,15 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 7086,
-      "preview": "[RSS · 20 items] Images culte du rock | Wed, 28 Oct 2026 | https://34.agendaculturel.fr/exposition/m"
+      "chars": 7075,
+      "preview": "[RSS · 20 items] Concert du festival 22 v’là Georges | Thu, 29 Oct 2026 | https://34.agendaculturel."
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6720,
+      "chars": 6700,
       "preview": "[RSS · 20 items] Professeur Alapage : Les Mille et une nuits | Wed, 28 Oct 2026 | https://30.agendac"
     },
     {
@@ -45,8 +45,8 @@
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7493,
-      "preview": "[RSS · 20 items] Spectacle Halloween | Wed, 28 Oct 2026 | https://13.agendaculturel.fr/theatre/la-ba"
+      "chars": 7310,
+      "preview": "[RSS · 20 items] Aura Mare | Thu, 29 Oct 2026 | https://13.agendaculturel.fr/exposition/marseille/au"
     },
     {
       "name": "Montpellier Events",
@@ -93,8 +93,8 @@
       "url": "https://www.victoire2.com/",
       "method": "texte",
       "items": 0,
-      "chars": 1302,
-      "preview": "Victoire 2 – Salle de concert et studios à Montpellier Victoire 2 – Salle de concert et studios à Sa"
+      "chars": 1509,
+      "preview": "Victoire 2 – Salle de concert et studios à Montpellier Passi + Tanis : le concert du samedi 31 octob"
     },
     {
       "name": "Théâtre Jean Vilar Montpellier",
@@ -149,8 +149,8 @@
       "url": "https://www.festivaldenimes.com/programmation",
       "method": "texte",
       "items": 0,
-      "chars": 636,
-      "preview": "Artistes Archive - Festival de Nîmes Prévente le 29/10 à 10h00   - Prévente le 29/10 à 10h00   - Pré"
+      "chars": 36,
+      "preview": "Artistes Archive - Festival de Nîmes"
     },
     {
       "name": "Théâtre de Nîmes",
@@ -165,7 +165,7 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 6062,
+      "chars": 6186,
       "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
@@ -267,10 +267,10 @@
     {
       "name": "Temple de la Danse Montpellier",
       "url": "https://templededanse.com/soirees-temple-de-la-danse-montpellier",
-      "method": "texte",
+      "method": "erreur",
       "items": 0,
-      "chars": 1976,
-      "preview": "Le Temple — bistro, bar dansant & école de danse à Lattes 260 rue du Puech Radier · Lattes On y dîne"
+      "chars": 10,
+      "preview": "[HTTP 404]"
     },
     {
       "name": "Alma Dance Montpellier",
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 10838,
+      "chars": 10832,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 4825,
+      "chars": 4820,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -382,10 +382,10 @@
     "sources_skip": 0,
     "sources_rss": 14,
     "sources_jsonld": 4,
-    "sources_text": 28,
-    "sources_erreur": 1,
+    "sources_text": 27,
+    "sources_erreur": 2,
     "total_items_structured": 204,
-    "total_chars": 174182
+    "total_chars": 171880
   },
-  "timestamp": "2026-10-28T12:03:16Z"
+  "timestamp": "2026-10-29T12:14:35Z"
 }
