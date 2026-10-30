@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6894,
+      "chars": 6919,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5767,
+      "chars": 5716,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 9343,
+      "chars": 9221,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,31 +29,31 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 7075,
-      "preview": "[RSS · 20 items] Concert du festival 22 v’là Georges | Thu, 29 Oct 2026 | https://34.agendaculturel."
+      "chars": 7071,
+      "preview": "[RSS · 20 items] « Sortilèges et magiciens : de Circé à Harry Potter » | Fri, 30 Oct 2026 | https://"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6700,
-      "preview": "[RSS · 20 items] Professeur Alapage : Les Mille et une nuits | Wed, 28 Oct 2026 | https://30.agendac"
+      "chars": 6675,
+      "preview": "[RSS · 20 items] La Robe de chambre | Fri, 30 Oct 2026 | https://30.agendaculturel.fr/theatre/aubais"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7310,
-      "preview": "[RSS · 20 items] Aura Mare | Thu, 29 Oct 2026 | https://13.agendaculturel.fr/exposition/marseille/au"
+      "chars": 7112,
+      "preview": "[RSS · 20 items] Motion in live, Roger Vilder | Fri, 30 Oct 2026 | https://13.agendaculturel.fr/expo"
     },
     {
       "name": "Montpellier Events",
       "url": "https://www.montpellier-events.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 820,
+      "chars": 878,
       "preview": "L'agenda et la programmation - Montpellier Events Retrouvez ici toute la programmation du Rechercher"
     },
     {
@@ -85,7 +85,7 @@
       "url": "https://www.corum-montpellier.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 541,
+      "chars": 599,
       "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... REPORTÉ le 15 jan"
     },
     {
@@ -165,8 +165,8 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 6186,
-      "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
+      "chars": 6231,
+      "preview": "Cepac Silo - Marseille | Site officiel Bachar Mar-Khalifé joue Christophe Cepac Silo – Site officiel"
     },
     {
       "name": "Le Dôme Marseille",
@@ -267,10 +267,10 @@
     {
       "name": "Temple de la Danse Montpellier",
       "url": "https://templededanse.com/soirees-temple-de-la-danse-montpellier",
-      "method": "erreur",
+      "method": "texte",
       "items": 0,
-      "chars": 10,
-      "preview": "[HTTP 404]"
+      "chars": 1976,
+      "preview": "Le Temple — bistro, bar dansant & école de danse à Lattes 260 rue du Puech Radier · Lattes On y dîne"
     },
     {
       "name": "Alma Dance Montpellier",
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 10832,
+      "chars": 10889,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 4820,
+      "chars": 4867,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -382,10 +382,10 @@
     "sources_skip": 0,
     "sources_rss": 14,
     "sources_jsonld": 4,
-    "sources_text": 27,
-    "sources_erreur": 2,
+    "sources_text": 28,
+    "sources_erreur": 1,
     "total_items_structured": 204,
-    "total_chars": 171880
+    "total_chars": 173736
   },
-  "timestamp": "2026-10-29T12:14:35Z"
+  "timestamp": "2026-10-30T12:04:50Z"
 }
