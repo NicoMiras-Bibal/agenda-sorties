@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6919,
+      "chars": 6847,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5716,
+      "chars": 5707,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 9221,
+      "chars": 8937,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,31 +29,31 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 7071,
-      "preview": "[RSS · 20 items] « Sortilèges et magiciens : de Circé à Harry Potter » | Fri, 30 Oct 2026 | https://"
+      "chars": 6868,
+      "preview": "[RSS · 20 items] Rolling Raccoons, Halloween au Bulle Dingue | Sat, 31 Oct 2026 | https://34.agendac"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6675,
-      "preview": "[RSS · 20 items] La Robe de chambre | Fri, 30 Oct 2026 | https://30.agendaculturel.fr/theatre/aubais"
+      "chars": 6658,
+      "preview": "[RSS · 20 items] Fabuleuse | Sat, 31 Oct 2026 | https://30.agendaculturel.fr/theatre/villeneuve-les-"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7112,
-      "preview": "[RSS · 20 items] Motion in live, Roger Vilder | Fri, 30 Oct 2026 | https://13.agendaculturel.fr/expo"
+      "chars": 7095,
+      "preview": "[RSS · 20 items] Motion in live, Roger Vilder | Sat, 31 Oct 2026 | https://13.agendaculturel.fr/expo"
     },
     {
       "name": "Montpellier Events",
       "url": "https://www.montpellier-events.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 878,
+      "chars": 863,
       "preview": "L'agenda et la programmation - Montpellier Events Retrouvez ici toute la programmation du Rechercher"
     },
     {
@@ -85,15 +85,15 @@
       "url": "https://www.corum-montpellier.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 599,
-      "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... REPORTÉ le 15 jan"
+      "chars": 584,
+      "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... ANNULÉ - Spectacl"
     },
     {
       "name": "Victoire 2 Saint-Jean-de-Védas",
       "url": "https://www.victoire2.com/",
       "method": "texte",
       "items": 0,
-      "chars": 1509,
+      "chars": 1355,
       "preview": "Victoire 2 – Salle de concert et studios à Montpellier Passi + Tanis : le concert du samedi 31 octob"
     },
     {
@@ -165,8 +165,8 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 6231,
-      "preview": "Cepac Silo - Marseille | Site officiel Bachar Mar-Khalifé joue Christophe Cepac Silo – Site officiel"
+      "chars": 6023,
+      "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
       "name": "Le Dôme Marseille",
@@ -220,9 +220,9 @@
       "name": "JDS Humour Nîmes",
       "url": "https://www.jds.fr/nimes/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
-      "items": 25,
-      "chars": 8090,
-      "preview": "[JSON-LD · 25 événements] Anthony Joubert - le Diner de Cons | 2027-01-17 | Vergeze Espace, Vergèze "
+      "items": 24,
+      "chars": 7809,
+      "preview": "[JSON-LD · 24 événements] Anthony Joubert - le Diner de Cons | 2027-01-17 | Vergeze Espace, Vergèze "
     },
     {
       "name": "Fnac Humour Montpellier",
@@ -349,7 +349,7 @@
       "url": "https://montpellier-nimes.kidiklik.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 3675,
+      "chars": 3548,
       "preview": "Le meilleur des sorties pour enfants - Montpellier à Nîmes - Kidiklik Sorry, you need to enable Java"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 10889,
+      "chars": 11213,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -384,8 +384,8 @@
     "sources_jsonld": 4,
     "sources_text": 28,
     "sources_erreur": 1,
-    "total_items_structured": 204,
-    "total_chars": 173736
+    "total_items_structured": 203,
+    "total_chars": 172658
   },
-  "timestamp": "2026-10-30T12:04:50Z"
+  "timestamp": "2026-10-31T11:38:44Z"
 }
