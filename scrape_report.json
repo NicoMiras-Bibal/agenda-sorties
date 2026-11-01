@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6847,
+      "chars": 6759,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5707,
+      "chars": 5822,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8937,
+      "chars": 8964,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,24 +29,24 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 6868,
-      "preview": "[RSS · 20 items] Rolling Raccoons, Halloween au Bulle Dingue | Sat, 31 Oct 2026 | https://34.agendac"
+      "chars": 7108,
+      "preview": "[RSS · 20 items] Lula Heldt | Sun, 01 Nov 2026 | https://34.agendaculturel.fr/concert/pezenas/lula-h"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6658,
-      "preview": "[RSS · 20 items] Fabuleuse | Sat, 31 Oct 2026 | https://30.agendaculturel.fr/theatre/villeneuve-les-"
+      "chars": 6565,
+      "preview": "[RSS · 20 items] Salon des santonniers Marguerittes | Sat, 31 Oct 2026 | https://30.agendaculturel.f"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7095,
-      "preview": "[RSS · 20 items] Motion in live, Roger Vilder | Sat, 31 Oct 2026 | https://13.agendaculturel.fr/expo"
+      "chars": 7143,
+      "preview": "[RSS · 20 items] Ram Rishchmann - Exposition | Sun, 01 Nov 2026 | https://13.agendaculturel.fr/expos"
     },
     {
       "name": "Montpellier Events",
@@ -220,9 +220,9 @@
       "name": "JDS Humour Nîmes",
       "url": "https://www.jds.fr/nimes/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
-      "items": 24,
-      "chars": 7809,
-      "preview": "[JSON-LD · 24 événements] Anthony Joubert - le Diner de Cons | 2027-01-17 | Vergeze Espace, Vergèze "
+      "items": 25,
+      "chars": 8021,
+      "preview": "[JSON-LD · 25 événements] Anthony Joubert - le Diner de Cons | 2027-01-17 | Vergeze Espace, Vergèze "
     },
     {
       "name": "Fnac Humour Montpellier",
@@ -286,7 +286,7 @@
       "method": "texte",
       "items": 0,
       "chars": 12000,
-      "preview": "Soirées Salsa du département 34 (Hérault) - octobre 2026 - Liste Salsa d'Olivier Soirées salsa dans "
+      "preview": "Soirées Salsa du département 34 (Hérault) - novembre 2026 - Liste Salsa d'Olivier Soirées salsa dans"
     },
     {
       "name": "Toutlemondedanse Montpellier",
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 11213,
+      "chars": 10630,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 4867,
+      "chars": 5054,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -384,8 +384,8 @@
     "sources_jsonld": 4,
     "sources_text": 28,
     "sources_erreur": 1,
-    "total_items_structured": 203,
-    "total_chars": 172658
+    "total_items_structured": 204,
+    "total_chars": 172723
   },
-  "timestamp": "2026-10-31T11:38:44Z"
+  "timestamp": "2026-11-01T12:37:57Z"
 }
