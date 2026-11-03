@@ -1,33 +1,33 @@
-[generate.py] 2026-11-02
+[generate.py] 2026-11-03
 Lecture agenda-config.md...
   29 événements manuels
 /home/runner/work/agenda-sorties/agenda-sorties/generate.py:346: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   ts = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 Scraping des sources...
   [1/47] Scraping : JDS Montpellier
-    → texte, 6870 chars
+    → texte, 6877 chars
   [2/47] Scraping : JDS Nîmes
     → texte, 5785 chars
   [3/47] Scraping : JDS Marseille
-    → texte, 9084 chars
+    → texte, 9167 chars
   [4/47] Scraping : Agenda Culturel 34 Montpellier
-    → RSS, 7131 chars, 20 items
+    → RSS, 7181 chars, 20 items
   [5/47] Scraping : Agenda Culturel 30 Nîmes
     → RSS, 6576 chars, 20 items
   [6/47] Scraping : Agenda Culturel 13 Marseille
-    → RSS, 7290 chars, 20 items
+    → RSS, 7042 chars, 20 items
   [7/47] Scraping : Montpellier Events
-    → texte, 863 chars
+    → texte, 893 chars
   [8/47] Scraping : IciSète
-    → RSS, 1963 chars, 5 items
+    → RSS, 1962 chars, 5 items
   [9/47] Scraping : EscapadesLR Hérault
     → JSON-LD, 25 chars, 1 items
   [10/47] Scraping : Zénith Sud Montpellier
     → texte, 136 chars
   [11/47] Scraping : Le Corum Montpellier
-    → texte, 584 chars
+    → texte, 614 chars
   [12/47] Scraping : Victoire 2 Saint-Jean-de-Védas
-    → texte, 1355 chars
+    → texte, 1669 chars
   [13/47] Scraping : Théâtre Jean Vilar Montpellier
     → texte, 4152 chars
   [14/47] Scraping : Opéra Comédie Montpellier
@@ -55,7 +55,7 @@ Scraping des sources...
   [25/47] Scraping : Théâtre de la Mer Sète
     → texte, 679 chars
   [26/47] Scraping : Scène de Bayssan Béziers
-    → texte, 1837 chars
+    → texte, 1852 chars
   [27/47] Scraping : JDS Humour Montpellier
     → JSON-LD, 8213 chars, 25 items
   [28/47] Scraping : JDS Humour Nîmes
@@ -63,7 +63,7 @@ Scraping des sources...
   [29/47] Scraping : Fnac Humour Montpellier
     → erreur, 19 chars
   [30/47] Scraping : Adam Concerts Humour
-    → RSS, 2875 chars, 10 items
+    → RSS, 2991 chars, 10 items
   [31/47] Scraping : Marseille Comedy Club
     → RSS, 621 chars, 2 items
   [32/47] Scraping : Garage Comedy Marseille
@@ -89,13 +89,13 @@ Scraping des sources...
   [42/47] Scraping : Family Piknik Montpellier
     → texte, 81 chars
   [43/47] Scraping : CitizenKid Montpellier
-    → texte, 3770 chars
+    → texte, 4208 chars
   [44/47] Scraping : Kidiklik Montpellier-Nîmes
     → texte, 3293 chars
   [45/47] Scraping : AlloCiné Pathé Odysseum
-    → texte, 10127 chars
+    → texte, 11462 chars
   [46/47] Scraping : AlloCiné Mégarama Saint-Gély
-    → texte, 4024 chars
+    → texte, 6223 chars
   [47/47] Scraping : Arènes de Béziers Feria 2026
     → RSS, 2013 chars, 10 items
 Sauvegarde scrape_report.json...
@@ -136,15 +136,15 @@ Recherches Gemini Search (couche 3)...
   [Gemini 15/15] Films cinéma Pathé Odysseum
     → Erreur : ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-
   Gemini non disponible — pipeline continue avec scrape seul
-  Scrape tronqué : 175073 → 110000 chars
+  Scrape tronqué : 179441 → 110000 chars
   Contenu total Claude : 110000 chars (scrape seul)
 Conversion événements manuels...
   0 événements confirmés (agenda-config.md)
 Extraction nouveaux événements depuis le scrape + Gemini (claude-haiku-4-5)...
-  [Claude raw début] '```json\n[{"date":"2026-11-07","titre":"Nimagine 2026 à Nîmes","cat":"festival","lieu":"Parc des expositions, Nîmes","note":"Salon dédié aux Métiers","fils":false,"stars":1,"section":"activite","url":"https://www.jds.fr/nimes/agenda/","gratuit":false,"groupe":""},{"date":"2026-11-12","titre":"Cirque '
-  66 nouveaux événements extraits depuis les sources
-  Filtre scrapés : -0 passés, -0 génériques, 0 cat. corrigées → 66 retenus
-  Total : 66 événements (0 manuels + 66 scrapés)
+  [Claude raw début] '```json\n[{"date":"2026-11-07","titre":"Nimagine 2026 à Nîmes","cat":"festival","lieu":"Nîmes, Gard","note":"Salon Métiers Imaginaires","fils":false,"stars":1,"section":"activite","url":"https://www.jds.fr/nimes/agenda/","gratuit":false,"groupe":""},{"date":"2026-11-07","titre":"HeroFestival Marseill'
+  158 nouveaux événements extraits depuis les sources
+  Filtre scrapés : -29 passés, -0 génériques, 1 cat. corrigées → 129 retenus
+  Total : 129 événements (0 manuels + 129 scrapés)
 Sauvegarde events_extracted.json...
 Injection dans template2.html...
 index.html généré avec succès.
