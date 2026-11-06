@@ -1,23 +1,23 @@
-[generate.py] 2026-11-05
+[generate.py] 2026-11-06
 Lecture agenda-config.md...
   29 événements manuels
 /home/runner/work/agenda-sorties/agenda-sorties/generate.py:346: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   ts = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 Scraping des sources...
   [1/47] Scraping : JDS Montpellier
-    → texte, 6914 chars
+    → texte, 6850 chars
   [2/47] Scraping : JDS Nîmes
-    → texte, 5537 chars
+    → texte, 5593 chars
   [3/47] Scraping : JDS Marseille
-    → texte, 8844 chars
+    → texte, 8898 chars
   [4/47] Scraping : Agenda Culturel 34 Montpellier
-    → RSS, 7137 chars, 20 items
+    → RSS, 7004 chars, 20 items
   [5/47] Scraping : Agenda Culturel 30 Nîmes
-    → RSS, 6547 chars, 20 items
+    → RSS, 6606 chars, 20 items
   [6/47] Scraping : Agenda Culturel 13 Marseille
-    → RSS, 7002 chars, 20 items
+    → RSS, 6880 chars, 20 items
   [7/47] Scraping : Montpellier Events
-    → texte, 860 chars
+    → texte, 830 chars
   [8/47] Scraping : IciSète
     → RSS, 1947 chars, 5 items
   [9/47] Scraping : EscapadesLR Hérault
@@ -25,9 +25,9 @@ Scraping des sources...
   [10/47] Scraping : Zénith Sud Montpellier
     → texte, 136 chars
   [11/47] Scraping : Le Corum Montpellier
-    → texte, 581 chars
+    → texte, 551 chars
   [12/47] Scraping : Victoire 2 Saint-Jean-de-Védas
-    → texte, 1520 chars
+    → texte, 1237 chars
   [13/47] Scraping : Théâtre Jean Vilar Montpellier
     → texte, 4152 chars
   [14/47] Scraping : Opéra Comédie Montpellier
@@ -45,7 +45,7 @@ Scraping des sources...
   [20/47] Scraping : Théâtre de Nîmes
     → RSS, 1732 chars, 10 items
   [21/47] Scraping : Le Silo Marseille
-    → texte, 5717 chars
+    → texte, 5628 chars
   [22/47] Scraping : Le Dôme Marseille
     → texte, 175 chars
   [23/47] Scraping : La Friche Belle de Mai
@@ -55,7 +55,7 @@ Scraping des sources...
   [25/47] Scraping : Théâtre de la Mer Sète
     → texte, 679 chars
   [26/47] Scraping : Scène de Bayssan Béziers
-    → texte, 1852 chars
+    → texte, 1828 chars
   [27/47] Scraping : JDS Humour Montpellier
     → JSON-LD, 8213 chars, 25 items
   [28/47] Scraping : JDS Humour Nîmes
@@ -93,9 +93,9 @@ Scraping des sources...
   [44/47] Scraping : Kidiklik Montpellier-Nîmes
     → texte, 3293 chars
   [45/47] Scraping : AlloCiné Pathé Odysseum
-    → texte, 11058 chars
+    → texte, 9959 chars
   [46/47] Scraping : AlloCiné Mégarama Saint-Gély
-    → texte, 4872 chars
+    → texte, 3964 chars
   [47/47] Scraping : Arènes de Béziers Feria 2026
     → RSS, 2013 chars, 10 items
 Sauvegarde scrape_report.json...
@@ -136,15 +136,15 @@ Recherches Gemini Search (couche 3)...
   [Gemini 15/15] Films cinéma Pathé Odysseum
     → Erreur : ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-
   Gemini non disponible — pipeline continue avec scrape seul
-  Scrape tronqué : 176354 → 110000 chars
+  Scrape tronqué : 173741 → 110000 chars
   Contenu total Claude : 110000 chars (scrape seul)
 Conversion événements manuels...
   0 événements confirmés (agenda-config.md)
 Extraction nouveaux événements depuis le scrape + Gemini (claude-haiku-4-5)...
-  [Claude raw début] '```json\n[{"date":"2026-11-05","titre":"Felhur X Andro","cat":"concert","lieu":"Saint-Jean-de-Védas, Montpellier","note":"Rap/Hip-hop énergique","fils":false,"stars":1,"section":"concerts","url":"https://34.agendaculturel.fr/concert/saint-jean-de-vedas/felhur-x-andro.html","gratuit":false,"groupe":""'
-  95 nouveaux événements extraits depuis les sources
-  Filtre scrapés : -0 passés, -0 génériques, 0 cat. corrigées → 95 retenus
-  Total : 95 événements (0 manuels + 95 scrapés)
+  [Claude raw début] '```json\n[{"date":"2026-11-06","titre":"Charge Mentale, Sauve qui Peut ! - Tournée","cat":"theatre","lieu":"Montpellier","note":"Comédie au Théâtre Le Point Comédie","fils":false,"stars":1,"section":"expos","url":"https://34.agendaculturel.fr/theatre/montpellier/charge-mentale-sauve-qui-peut-tournee.'
+  222 nouveaux événements extraits depuis les sources
+  Filtre scrapés : -21 passés, -0 génériques, 0 cat. corrigées → 201 retenus
+  Total : 201 événements (0 manuels + 201 scrapés)
 Sauvegarde events_extracted.json...
 Injection dans template2.html...
 index.html généré avec succès.

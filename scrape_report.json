@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6914,
+      "chars": 6850,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5537,
+      "chars": 5593,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8844,
+      "chars": 8898,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,31 +29,31 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 7137,
-      "preview": "[RSS · 20 items] Felhur X Andro | Thu, 05 Nov 2026 | https://34.agendaculturel.fr/concert/saint-jean"
+      "chars": 7004,
+      "preview": "[RSS · 20 items] Charge Mentale, Sauve qui Peut ! - Tournée | Fri, 06 Nov 2026 | https://34.agendacu"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6547,
-      "preview": "[RSS · 20 items] Un Instant | Thu, 05 Nov 2026 | https://30.agendaculturel.fr/arts-du-spectacle/nime"
+      "chars": 6606,
+      "preview": "[RSS · 20 items] Mon nom est Paeonia | Fri, 06 Nov 2026 | https://30.agendaculturel.fr/exposition/ca"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7002,
-      "preview": "[RSS · 20 items] Charles Burratti, Portraits et paysages urbains | Thu, 05 Nov 2026 | https://13.age"
+      "chars": 6880,
+      "preview": "[RSS · 20 items] Herculine, la vie des hommes infâmes | Fri, 06 Nov 2026 | https://13.agendaculturel"
     },
     {
       "name": "Montpellier Events",
       "url": "https://www.montpellier-events.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 860,
+      "chars": 830,
       "preview": "L'agenda et la programmation - Montpellier Events Retrouvez ici toute la programmation du Rechercher"
     },
     {
@@ -85,15 +85,15 @@
       "url": "https://www.corum-montpellier.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 581,
-      "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... REPORTÉ LE 13 JUI"
+      "chars": 551,
+      "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... DÉPLACÉ AU ZENITH"
     },
     {
       "name": "Victoire 2 Saint-Jean-de-Védas",
       "url": "https://www.victoire2.com/",
       "method": "texte",
       "items": 0,
-      "chars": 1520,
+      "chars": 1237,
       "preview": "Victoire 2 – Salle de concert et studios à Montpellier Passi + Tanis : le concert du samedi 31 octob"
     },
     {
@@ -134,7 +134,7 @@
       "method": "texte",
       "items": 0,
       "chars": 12000,
-      "preview": "Halle Tropisme - Agenda jeu. 05 nov. de 17h30 à 18h30 Tous les jeudis de 17h30 à 18h30 Vente product"
+      "preview": "Halle Tropisme - Agenda Du ven. 06 nov. au dim. 08 nov. GRANDE VENTE DE PLANTES Et si tu repartais a"
     },
     {
       "name": "Paloma Nîmes",
@@ -142,7 +142,7 @@
       "method": "RSS",
       "items": 10,
       "chars": 3894,
-      "preview": "[RSS · 10 items] COMMUNIQUÉ – Jeudi 5 novembre 2026, Mouvement national de grève – Paloma soutient l"
+      "preview": "[RSS · 10 items] This Is Not A Love Song 2027 : rendez-vous les 4 et 5 juin pour faire le printemps "
     },
     {
       "name": "Festival de Nîmes",
@@ -165,8 +165,8 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 5717,
-      "preview": "Cepac Silo - Marseille | Site officiel THE 5 ROSIES - TRIBUTE TO AC/DC Cepac Silo – Site officiel | "
+      "chars": 5628,
+      "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
       "name": "Le Dôme Marseille",
@@ -205,7 +205,7 @@
       "url": "https://scene-de-bayssan.herault.fr/1090-programmation.htm",
       "method": "texte",
       "items": 0,
-      "chars": 1852,
+      "chars": 1828,
       "preview": "Programme culturel | Scène de Bayssan - Site de la Scène de Bayssan Découvrez les sites et organisme"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 11058,
+      "chars": 9959,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 4872,
+      "chars": 3964,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -385,7 +385,7 @@
     "sources_text": 28,
     "sources_erreur": 1,
     "total_items_structured": 204,
-    "total_chars": 172648
+    "total_chars": 170035
   },
-  "timestamp": "2026-11-05T13:56:44Z"
+  "timestamp": "2026-11-06T13:41:55Z"
 }
