@@ -1,25 +1,25 @@
-[generate.py] 2026-11-06
+[generate.py] 2026-11-07
 Lecture agenda-config.md...
   29 événements manuels
 /home/runner/work/agenda-sorties/agenda-sorties/generate.py:346: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   ts = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 Scraping des sources...
   [1/47] Scraping : JDS Montpellier
-    → texte, 6850 chars
+    → texte, 6972 chars
   [2/47] Scraping : JDS Nîmes
-    → texte, 5593 chars
+    → texte, 5538 chars
   [3/47] Scraping : JDS Marseille
-    → texte, 8898 chars
+    → texte, 8858 chars
   [4/47] Scraping : Agenda Culturel 34 Montpellier
-    → RSS, 7004 chars, 20 items
+    → RSS, 6968 chars, 20 items
   [5/47] Scraping : Agenda Culturel 30 Nîmes
-    → RSS, 6606 chars, 20 items
+    → RSS, 6588 chars, 20 items
   [6/47] Scraping : Agenda Culturel 13 Marseille
-    → RSS, 6880 chars, 20 items
+    → RSS, 6889 chars, 20 items
   [7/47] Scraping : Montpellier Events
     → texte, 830 chars
   [8/47] Scraping : IciSète
-    → RSS, 1947 chars, 5 items
+    → RSS, 1938 chars, 5 items
   [9/47] Scraping : EscapadesLR Hérault
     → JSON-LD, 25 chars, 1 items
   [10/47] Scraping : Zénith Sud Montpellier
@@ -27,9 +27,9 @@ Scraping des sources...
   [11/47] Scraping : Le Corum Montpellier
     → texte, 551 chars
   [12/47] Scraping : Victoire 2 Saint-Jean-de-Védas
-    → texte, 1237 chars
+    → texte, 1286 chars
   [13/47] Scraping : Théâtre Jean Vilar Montpellier
-    → texte, 4152 chars
+    → texte, 4051 chars
   [14/47] Scraping : Opéra Comédie Montpellier
     → RSS, 3206 chars, 10 items
   [15/47] Scraping : Domaine d'O Montpellier
@@ -45,7 +45,7 @@ Scraping des sources...
   [20/47] Scraping : Théâtre de Nîmes
     → RSS, 1732 chars, 10 items
   [21/47] Scraping : Le Silo Marseille
-    → texte, 5628 chars
+    → texte, 5718 chars
   [22/47] Scraping : Le Dôme Marseille
     → texte, 175 chars
   [23/47] Scraping : La Friche Belle de Mai
@@ -57,7 +57,7 @@ Scraping des sources...
   [26/47] Scraping : Scène de Bayssan Béziers
     → texte, 1828 chars
   [27/47] Scraping : JDS Humour Montpellier
-    → JSON-LD, 8213 chars, 25 items
+    → JSON-LD, 8143 chars, 25 items
   [28/47] Scraping : JDS Humour Nîmes
     → JSON-LD, 8021 chars, 25 items
   [29/47] Scraping : Fnac Humour Montpellier
@@ -93,9 +93,9 @@ Scraping des sources...
   [44/47] Scraping : Kidiklik Montpellier-Nîmes
     → texte, 3293 chars
   [45/47] Scraping : AlloCiné Pathé Odysseum
-    → texte, 9959 chars
+    → texte, 10596 chars
   [46/47] Scraping : AlloCiné Mégarama Saint-Gély
-    → texte, 3964 chars
+    → texte, 5129 chars
   [47/47] Scraping : Arènes de Béziers Feria 2026
     → RSS, 2013 chars, 10 items
 Sauvegarde scrape_report.json...
@@ -136,15 +136,15 @@ Recherches Gemini Search (couche 3)...
   [Gemini 15/15] Films cinéma Pathé Odysseum
     → Erreur : ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-
   Gemini non disponible — pipeline continue avec scrape seul
-  Scrape tronqué : 173741 → 110000 chars
+  Scrape tronqué : 175484 → 110000 chars
   Contenu total Claude : 110000 chars (scrape seul)
 Conversion événements manuels...
   0 événements confirmés (agenda-config.md)
 Extraction nouveaux événements depuis le scrape + Gemini (claude-haiku-4-5)...
-  [Claude raw début] '```json\n[{"date":"2026-11-06","titre":"Charge Mentale, Sauve qui Peut ! - Tournée","cat":"theatre","lieu":"Montpellier","note":"Comédie au Théâtre Le Point Comédie","fils":false,"stars":1,"section":"expos","url":"https://34.agendaculturel.fr/theatre/montpellier/charge-mentale-sauve-qui-peut-tournee.'
-  222 nouveaux événements extraits depuis les sources
-  Filtre scrapés : -21 passés, -0 génériques, 0 cat. corrigées → 201 retenus
-  Total : 201 événements (0 manuels + 201 scrapés)
+  [Claude raw début] '```json\n[{"date":"2026-11-07","titre":"Lunel Flamenco Festival (6e édition)","cat":"festival","lieu":"Lunel, Hérault","note":"Flamenco, sévillanes, concours et bal","fils":false,"stars":2,"section":"concerts","url":"https://34.agendaculturel.fr/festival/6e-edition-du-lunel-flamenco-festival-7-novemb'
+  206 nouveaux événements extraits depuis les sources
+  Filtre scrapés : -28 passés, -0 génériques, 0 cat. corrigées → 178 retenus
+  Total : 178 événements (0 manuels + 178 scrapés)
 Sauvegarde events_extracted.json...
 Injection dans template2.html...
 index.html généré avec succès.

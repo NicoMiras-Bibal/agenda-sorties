@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6850,
+      "chars": 6972,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5593,
+      "chars": 5538,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8898,
+      "chars": 8858,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,24 +29,24 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 7004,
-      "preview": "[RSS · 20 items] Charge Mentale, Sauve qui Peut ! - Tournée | Fri, 06 Nov 2026 | https://34.agendacu"
+      "chars": 6968,
+      "preview": "[RSS · 20 items] 6e édition du Lunel Flamenco Festival, 7 novembre | Sat, 07 Nov 2026 | https://34.a"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6606,
-      "preview": "[RSS · 20 items] Mon nom est Paeonia | Fri, 06 Nov 2026 | https://30.agendaculturel.fr/exposition/ca"
+      "chars": 6588,
+      "preview": "[RSS · 20 items] Fabuleuse | Sat, 07 Nov 2026 | https://30.agendaculturel.fr/theatre/villeneuve-les-"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6880,
-      "preview": "[RSS · 20 items] Herculine, la vie des hommes infâmes | Fri, 06 Nov 2026 | https://13.agendaculturel"
+      "chars": 6889,
+      "preview": "[RSS · 20 items] Herculine, la vie des hommes infâmes | Sat, 07 Nov 2026 | https://13.agendaculturel"
     },
     {
       "name": "Montpellier Events",
@@ -61,8 +61,8 @@
       "url": "https://icisete.fr/",
       "method": "RSS",
       "items": 5,
-      "chars": 1947,
-      "preview": "[RSS · 5 items] Grève du jeudi 5 novembre 2026 à Sète : la situation école par école | Tue, 03 Nov 2"
+      "chars": 1938,
+      "preview": "[RSS · 5 items] Balaruc-les-Bains : la Maison du Peuple retrouve son visage Art déco | Sat, 07 Nov 2"
     },
     {
       "name": "EscapadesLR Hérault",
@@ -93,7 +93,7 @@
       "url": "https://www.victoire2.com/",
       "method": "texte",
       "items": 0,
-      "chars": 1237,
+      "chars": 1286,
       "preview": "Victoire 2 – Salle de concert et studios à Montpellier Passi + Tanis : le concert du samedi 31 octob"
     },
     {
@@ -101,8 +101,8 @@
       "url": "https://theatrejeanvilar.montpellier.fr/la-saison",
       "method": "texte",
       "items": 0,
-      "chars": 4152,
-      "preview": "La programmation | Théâtre Jean Vilar Aller au contenu principal Télécharger le programme Théâtre d’"
+      "chars": 4051,
+      "preview": "La programmation | Théâtre Jean Vilar Aller au contenu principal Télécharger le programme Danse - Co"
     },
     {
       "name": "Opéra Comédie Montpellier",
@@ -165,7 +165,7 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 5628,
+      "chars": 5718,
       "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
@@ -213,7 +213,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
       "items": 25,
-      "chars": 8213,
+      "chars": 8143,
       "preview": "[JSON-LD · 25 événements] Redouane Bougheraba - Mon Premier Spectacle - Tournée des Zénith | 2026-12"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 9959,
+      "chars": 10596,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 3964,
+      "chars": 5129,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -385,7 +385,7 @@
     "sources_text": 28,
     "sources_erreur": 1,
     "total_items_structured": 204,
-    "total_chars": 170035
+    "total_chars": 171778
   },
-  "timestamp": "2026-11-06T13:41:55Z"
+  "timestamp": "2026-11-07T12:23:59Z"
 }
