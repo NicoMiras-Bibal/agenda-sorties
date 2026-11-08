@@ -1,23 +1,23 @@
-[generate.py] 2026-11-07
+[generate.py] 2026-11-08
 Lecture agenda-config.md...
   29 événements manuels
 /home/runner/work/agenda-sorties/agenda-sorties/generate.py:346: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   ts = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 Scraping des sources...
   [1/47] Scraping : JDS Montpellier
-    → texte, 6972 chars
+    → texte, 6917 chars
   [2/47] Scraping : JDS Nîmes
-    → texte, 5538 chars
+    → texte, 5480 chars
   [3/47] Scraping : JDS Marseille
-    → texte, 8858 chars
+    → texte, 8816 chars
   [4/47] Scraping : Agenda Culturel 34 Montpellier
-    → RSS, 6968 chars, 20 items
+    → RSS, 7019 chars, 20 items
   [5/47] Scraping : Agenda Culturel 30 Nîmes
-    → RSS, 6588 chars, 20 items
+    → RSS, 6555 chars, 20 items
   [6/47] Scraping : Agenda Culturel 13 Marseille
-    → RSS, 6889 chars, 20 items
+    → RSS, 7159 chars, 20 items
   [7/47] Scraping : Montpellier Events
-    → texte, 830 chars
+    → texte, 821 chars
   [8/47] Scraping : IciSète
     → RSS, 1938 chars, 5 items
   [9/47] Scraping : EscapadesLR Hérault
@@ -25,9 +25,9 @@ Scraping des sources...
   [10/47] Scraping : Zénith Sud Montpellier
     → texte, 136 chars
   [11/47] Scraping : Le Corum Montpellier
-    → texte, 551 chars
+    → texte, 542 chars
   [12/47] Scraping : Victoire 2 Saint-Jean-de-Védas
-    → texte, 1286 chars
+    → texte, 1272 chars
   [13/47] Scraping : Théâtre Jean Vilar Montpellier
     → texte, 4051 chars
   [14/47] Scraping : Opéra Comédie Montpellier
@@ -45,7 +45,7 @@ Scraping des sources...
   [20/47] Scraping : Théâtre de Nîmes
     → RSS, 1732 chars, 10 items
   [21/47] Scraping : Le Silo Marseille
-    → texte, 5718 chars
+    → texte, 5798 chars
   [22/47] Scraping : Le Dôme Marseille
     → texte, 175 chars
   [23/47] Scraping : La Friche Belle de Mai
@@ -55,11 +55,11 @@ Scraping des sources...
   [25/47] Scraping : Théâtre de la Mer Sète
     → texte, 679 chars
   [26/47] Scraping : Scène de Bayssan Béziers
-    → texte, 1828 chars
+    → texte, 1845 chars
   [27/47] Scraping : JDS Humour Montpellier
     → JSON-LD, 8143 chars, 25 items
   [28/47] Scraping : JDS Humour Nîmes
-    → JSON-LD, 8021 chars, 25 items
+    → JSON-LD, 8133 chars, 25 items
   [29/47] Scraping : Fnac Humour Montpellier
     → erreur, 19 chars
   [30/47] Scraping : Adam Concerts Humour
@@ -73,7 +73,7 @@ Scraping des sources...
   [34/47] Scraping : Temple de la Danse Montpellier
     → texte, 1976 chars
   [35/47] Scraping : Alma Dance Montpellier
-    → JSON-LD, 1183 chars, 4 items
+    → JSON-LD, 1184 chars, 4 items
   [36/47] Scraping : Liste Salsa d'Olivier Hérault 34
     → texte, 12000 chars
   [37/47] Scraping : Toutlemondedanse Montpellier
@@ -91,11 +91,11 @@ Scraping des sources...
   [43/47] Scraping : CitizenKid Montpellier
     → texte, 4169 chars
   [44/47] Scraping : Kidiklik Montpellier-Nîmes
-    → texte, 3293 chars
+    → texte, 3412 chars
   [45/47] Scraping : AlloCiné Pathé Odysseum
-    → texte, 10596 chars
+    → texte, 10465 chars
   [46/47] Scraping : AlloCiné Mégarama Saint-Gély
-    → texte, 5129 chars
+    → texte, 4651 chars
   [47/47] Scraping : Arènes de Béziers Feria 2026
     → RSS, 2013 chars, 10 items
 Sauvegarde scrape_report.json...
@@ -136,15 +136,15 @@ Recherches Gemini Search (couche 3)...
   [Gemini 15/15] Films cinéma Pathé Odysseum
     → Erreur : ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-
   Gemini non disponible — pipeline continue avec scrape seul
-  Scrape tronqué : 175484 → 110000 chars
+  Scrape tronqué : 175305 → 110000 chars
   Contenu total Claude : 110000 chars (scrape seul)
 Conversion événements manuels...
   0 événements confirmés (agenda-config.md)
 Extraction nouveaux événements depuis le scrape + Gemini (claude-haiku-4-5)...
-  [Claude raw début] '```json\n[{"date":"2026-11-07","titre":"Lunel Flamenco Festival (6e édition)","cat":"festival","lieu":"Lunel, Hérault","note":"Flamenco, sévillanes, concours et bal","fils":false,"stars":2,"section":"concerts","url":"https://34.agendaculturel.fr/festival/6e-edition-du-lunel-flamenco-festival-7-novemb'
-  206 nouveaux événements extraits depuis les sources
-  Filtre scrapés : -28 passés, -0 génériques, 0 cat. corrigées → 178 retenus
-  Total : 178 événements (0 manuels + 178 scrapés)
+  [Claude raw début] '```json\n[{"date":"2026-11-05","titre":"Festival Temps de Cirques Gard","cat":"festival","lieu":"Gard","note":"Arts du cirque, 11 jours de créations","fils":true,"stars":2,"section":"danse","url":"https://30.agendaculturel.fr/festival/festival-temps-de-cirques-gard-1.html","gratuit":false,"groupe":""'
+  110 nouveaux événements extraits depuis les sources
+  Filtre scrapés : -2 passés, -0 génériques, 0 cat. corrigées → 108 retenus
+  Total : 108 événements (0 manuels + 108 scrapés)
 Sauvegarde events_extracted.json...
 Injection dans template2.html...
 index.html généré avec succès.
