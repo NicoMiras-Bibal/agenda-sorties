@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6965,
+      "chars": 6955,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 9006,
+      "chars": 9003,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,31 +29,31 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 7285,
-      "preview": "[RSS · 20 items] Entrez dans la couleur ! | Fri, 06 Nov 2026 | https://34.agendaculturel.fr/expositi"
+      "chars": 7086,
+      "preview": "[RSS · 20 items] Very Impro People au Redline | Tue, 10 Nov 2026 | https://34.agendaculturel.fr/thea"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6567,
-      "preview": "[RSS · 20 items] Préviens les autres | Mon, 09 Nov 2026 | https://30.agendaculturel.fr/arts-du-spect"
+      "chars": 6541,
+      "preview": "[RSS · 20 items] Mon nom est Paeonia | Tue, 10 Nov 2026 | https://30.agendaculturel.fr/exposition/ca"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7129,
-      "preview": "[RSS · 20 items] Charles Burratti, Portraits et paysages urbains | Thu, 05 Nov 2026 | https://13.age"
+      "chars": 6982,
+      "preview": "[RSS · 20 items] Exposition sur Grand Ecran : James McNeill Whistler | Tue, 10 Nov 2026 | https://13"
     },
     {
       "name": "Montpellier Events",
       "url": "https://www.montpellier-events.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 848,
+      "chars": 877,
       "preview": "L'agenda et la programmation - Montpellier Events Retrouvez ici toute la programmation du Rechercher"
     },
     {
@@ -85,7 +85,7 @@
       "url": "https://www.corum-montpellier.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 569,
+      "chars": 598,
       "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... DÉPLACÉ AU ZENITH"
     },
     {
@@ -134,7 +134,7 @@
       "method": "texte",
       "items": 0,
       "chars": 12000,
-      "preview": "Halle Tropisme - Agenda lun. 09 nov. de 18h30 à 20h15 Tous les lundis de 18h30 à 20h15 Cours d'AFROD"
+      "preview": "Halle Tropisme - Agenda Du mar. 10 nov. au dim. 22 nov. Chacun de nous la porte en soi Exposition d'"
     },
     {
       "name": "Paloma Nîmes",
@@ -221,7 +221,7 @@
       "url": "https://www.jds.fr/nimes/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
       "items": 25,
-      "chars": 8133,
+      "chars": 8005,
       "preview": "[JSON-LD · 25 événements] Anthony Joubert - le Diner de Cons | 2027-01-17 | Vergeze Espace, Vergèze "
     },
     {
@@ -237,8 +237,8 @@
       "url": "https://adamconcerts.com/programmation/theatre-humour/",
       "method": "RSS",
       "items": 10,
-      "chars": 2871,
-      "preview": "[RSS · 10 items] SDM | Wed, 04 Nov 2026 | https://adamconcerts.com/sdm-5-65374/ | SDM, c’est l’histo"
+      "chars": 2832,
+      "preview": "[RSS · 10 items] ENNIO MORRICONE ET NINO ROTA | Tue, 10 Nov 2026 | https://adamconcerts.com/ennio-mo"
     },
     {
       "name": "Marseille Comedy Club",
@@ -341,7 +341,7 @@
       "url": "https://www.citizenkid.com/montpellier",
       "method": "texte",
       "items": 0,
-      "chars": 4017,
+      "chars": 3690,
       "preview": "Sortie enfant Montpellier, sélection d’activités et de sorties en famille sur Montpellier avec Citiz"
     },
     {
@@ -349,7 +349,7 @@
       "url": "https://montpellier-nimes.kidiklik.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 3527,
+      "chars": 3491,
       "preview": "Le meilleur des sorties pour enfants - Montpellier à Nîmes - Kidiklik Sorry, you need to enable Java"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 9612,
+      "chars": 10520,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 4206,
+      "chars": 5905,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -385,7 +385,7 @@
     "sources_text": 28,
     "sources_erreur": 1,
     "total_items_structured": 204,
-    "total_chars": 170907
+    "total_chars": 172657
   },
-  "timestamp": "2026-11-09T15:04:09Z"
+  "timestamp": "2026-11-10T14:16:07Z"
 }

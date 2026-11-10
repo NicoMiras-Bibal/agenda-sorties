@@ -1,23 +1,23 @@
-[generate.py] 2026-11-09
+[generate.py] 2026-11-10
 Lecture agenda-config.md...
   29 événements manuels
 /home/runner/work/agenda-sorties/agenda-sorties/generate.py:346: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   ts = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 Scraping des sources...
   [1/47] Scraping : JDS Montpellier
-    → texte, 6965 chars
+    → texte, 6955 chars
   [2/47] Scraping : JDS Nîmes
     → texte, 5534 chars
   [3/47] Scraping : JDS Marseille
-    → texte, 9006 chars
+    → texte, 9003 chars
   [4/47] Scraping : Agenda Culturel 34 Montpellier
-    → RSS, 7285 chars, 20 items
+    → RSS, 7086 chars, 20 items
   [5/47] Scraping : Agenda Culturel 30 Nîmes
-    → RSS, 6567 chars, 20 items
+    → RSS, 6541 chars, 20 items
   [6/47] Scraping : Agenda Culturel 13 Marseille
-    → RSS, 7129 chars, 20 items
+    → RSS, 6982 chars, 20 items
   [7/47] Scraping : Montpellier Events
-    → texte, 848 chars
+    → texte, 877 chars
   [8/47] Scraping : IciSète
     → RSS, 1938 chars, 5 items
   [9/47] Scraping : EscapadesLR Hérault
@@ -25,7 +25,7 @@ Scraping des sources...
   [10/47] Scraping : Zénith Sud Montpellier
     → texte, 136 chars
   [11/47] Scraping : Le Corum Montpellier
-    → texte, 569 chars
+    → texte, 598 chars
   [12/47] Scraping : Victoire 2 Saint-Jean-de-Védas
     → texte, 1272 chars
   [13/47] Scraping : Théâtre Jean Vilar Montpellier
@@ -59,11 +59,11 @@ Scraping des sources...
   [27/47] Scraping : JDS Humour Montpellier
     → JSON-LD, 8143 chars, 25 items
   [28/47] Scraping : JDS Humour Nîmes
-    → JSON-LD, 8133 chars, 25 items
+    → JSON-LD, 8005 chars, 25 items
   [29/47] Scraping : Fnac Humour Montpellier
     → erreur, 19 chars
   [30/47] Scraping : Adam Concerts Humour
-    → RSS, 2871 chars, 10 items
+    → RSS, 2832 chars, 10 items
   [31/47] Scraping : Marseille Comedy Club
     → RSS, 621 chars, 2 items
   [32/47] Scraping : Garage Comedy Marseille
@@ -89,13 +89,13 @@ Scraping des sources...
   [42/47] Scraping : Family Piknik Montpellier
     → texte, 81 chars
   [43/47] Scraping : CitizenKid Montpellier
-    → texte, 4017 chars
+    → texte, 3690 chars
   [44/47] Scraping : Kidiklik Montpellier-Nîmes
-    → texte, 3527 chars
+    → texte, 3491 chars
   [45/47] Scraping : AlloCiné Pathé Odysseum
-    → texte, 9612 chars
+    → texte, 10520 chars
   [46/47] Scraping : AlloCiné Mégarama Saint-Gély
-    → texte, 4206 chars
+    → texte, 5905 chars
   [47/47] Scraping : Arènes de Béziers Feria 2026
     → RSS, 2013 chars, 10 items
 Sauvegarde scrape_report.json...
@@ -136,15 +136,15 @@ Recherches Gemini Search (couche 3)...
   [Gemini 15/15] Films cinéma Pathé Odysseum
     → Erreur : ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-
   Gemini non disponible — pipeline continue avec scrape seul
-  Scrape tronqué : 174613 → 110000 chars
+  Scrape tronqué : 176363 → 110000 chars
   Contenu total Claude : 110000 chars (scrape seul)
 Conversion événements manuels...
   0 événements confirmés (agenda-config.md)
 Extraction nouveaux événements depuis le scrape + Gemini (claude-haiku-4-5)...
-  [Claude raw début] '```json\n[{"date":"2026-11-06","titre":"Entrez dans la couleur !","cat":"expo","lieu":"Saint-Gély-du-Fesc, Montpellier","note":"Exposition photo annuelle","fils":false,"stars":1,"section":"expos","url":"https://34.agendaculturel.fr/exposition/saint-gely-du-fesc/entrez-dans-la-couleur.html","gratuit":'
-  192 nouveaux événements extraits depuis les sources
-  Filtre scrapés : -28 passés, -0 génériques, 0 cat. corrigées → 164 retenus
-  Total : 164 événements (0 manuels + 164 scrapés)
+  [Claude raw début] '```json\n[{"date":"2026-11-05","titre":"Luz Flamenca, exposition photo de Valentina Benigni","cat":"expo","lieu":"Lunel, Hérault","note":"","fils":false,"stars":1,"section":"expos","url":"https://34.agendaculturel.fr/exposition/lunel/luz-flamenca-exposition-photo-de-valentina-benigni.html","gratuit":'
+  131 nouveaux événements extraits depuis les sources
+  Filtre scrapés : -23 passés, -0 génériques, 1 cat. corrigées → 108 retenus
+  Total : 108 événements (0 manuels + 108 scrapés)
 Sauvegarde events_extracted.json...
 Injection dans template2.html...
 index.html généré avec succès.
