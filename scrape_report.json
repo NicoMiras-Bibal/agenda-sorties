@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6965,
+      "chars": 6998,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5534,
+      "chars": 5548,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8996,
+      "chars": 9212,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,23 +29,23 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 7174,
-      "preview": "[RSS · 20 items] Opéra et musique sacrée | Wed, 11 Nov 2026 | https://34.agendaculturel.fr/concert/b"
+      "chars": 7151,
+      "preview": "[RSS · 20 items] Isild Le Besco, Dévoration | Thu, 12 Nov 2026 | https://34.agendaculturel.fr/exposi"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6576,
-      "preview": "[RSS · 20 items] Préviens les autres | Wed, 11 Nov 2026 | https://30.agendaculturel.fr/arts-du-spect"
+      "chars": 6563,
+      "preview": "[RSS · 20 items] Scène ouverte : Humour | Thu, 12 Nov 2026 | https://30.agendaculturel.fr/theatre/ni"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7053,
+      "chars": 6683,
       "preview": "[RSS · 20 items] Exposition - La responsabilité des rêves | Wed, 11 Nov 2026 | https://13.agendacult"
     },
     {
@@ -93,7 +93,7 @@
       "url": "https://www.victoire2.com/",
       "method": "texte",
       "items": 0,
-      "chars": 1272,
+      "chars": 1244,
       "preview": "Victoire 2 – Salle de concert et studios à Montpellier Passi + Tanis : le concert du samedi 31 octob"
     },
     {
@@ -125,8 +125,8 @@
       "url": "https://www.lejam.com/",
       "method": "RSS",
       "items": 10,
-      "chars": 3574,
-      "preview": "[RSS · 10 items] ELVETT – LE 05/03 ZN Production présente | Fri, 05 Mar 2027 | https://www.lejam.com"
+      "chars": 3600,
+      "preview": "[RSS · 10 items] ELVETT + 1ère partie : LA STREGA – LE 05/03 ZN Production présente | Fri, 05 Mar 20"
     },
     {
       "name": "Halle Tropisme Montpellier",
@@ -173,7 +173,7 @@
       "url": "https://dome.marseille.fr/programmation",
       "method": "texte",
       "items": 0,
-      "chars": 175,
+      "chars": 198,
       "preview": "PROCHAINEMENT | Le Dôme de Marseille - Ville de Marseille Aller au contenu principal LEGENDARY ROCK "
     },
     {
@@ -237,8 +237,8 @@
       "url": "https://adamconcerts.com/programmation/theatre-humour/",
       "method": "RSS",
       "items": 10,
-      "chars": 2832,
-      "preview": "[RSS · 10 items] ENNIO MORRICONE ET NINO ROTA | Tue, 10 Nov 2026 | https://adamconcerts.com/ennio-mo"
+      "chars": 2812,
+      "preview": "[RSS · 10 items] ZAMDANE | Thu, 12 Nov 2026 | https://adamconcerts.com/zamdane-2-66254/ | Zamdane so"
     },
     {
       "name": "Marseille Comedy Club",
@@ -277,8 +277,8 @@
       "url": "https://almadance.fr/soirees-danse-montpelier-bachata-salsa-kizomba/",
       "method": "JSON-LD",
       "items": 4,
-      "chars": 1184,
-      "preview": "[JSON-LD · 4 événements] ALMA HEBDO BACHATA #6 | 2026-11-11 | El Salon de Tango, Mauguio | Profitez "
+      "chars": 1186,
+      "preview": "[JSON-LD · 4 événements] ALMA HEBDO BACHATA #7 | 2026-11-18 | El Salon de Tango, Mauguio | Profitez "
     },
     {
       "name": "Liste Salsa d'Olivier Hérault 34",
@@ -349,7 +349,7 @@
       "url": "https://montpellier-nimes.kidiklik.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 3491,
+      "chars": 3278,
       "preview": "Le meilleur des sorties pour enfants - Montpellier à Nîmes - Kidiklik Sorry, you need to enable Java"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 9012,
+      "chars": 8883,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 4269,
+      "chars": 3832,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -385,7 +385,7 @@
     "sources_text": 28,
     "sources_erreur": 1,
     "total_items_structured": 204,
-    "total_chars": 169719
+    "total_chars": 168800
   },
-  "timestamp": "2026-11-11T13:30:03Z"
+  "timestamp": "2026-11-12T14:34:01Z"
 }
