@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6998,
+      "chars": 6855,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5548,
+      "chars": 5425,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 9212,
+      "chars": 8841,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,24 +29,24 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 7151,
-      "preview": "[RSS · 20 items] Isild Le Besco, Dévoration | Thu, 12 Nov 2026 | https://34.agendaculturel.fr/exposi"
+      "chars": 6845,
+      "preview": "[RSS · 20 items] Isild Le Besco, Dévoration | Fri, 13 Nov 2026 | https://34.agendaculturel.fr/exposi"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6563,
-      "preview": "[RSS · 20 items] Scène ouverte : Humour | Thu, 12 Nov 2026 | https://30.agendaculturel.fr/theatre/ni"
+      "chars": 6628,
+      "preview": "[RSS · 20 items] Mon nom est Paeonia | Fri, 13 Nov 2026 | https://30.agendaculturel.fr/exposition/ca"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6683,
-      "preview": "[RSS · 20 items] Exposition - La responsabilité des rêves | Wed, 11 Nov 2026 | https://13.agendacult"
+      "chars": 6911,
+      "preview": "[RSS · 20 items] Concert : Les Nuits de l'Inde | Fri, 13 Nov 2026 | https://13.agendaculturel.fr/con"
     },
     {
       "name": "Montpellier Events",
@@ -61,8 +61,8 @@
       "url": "https://icisete.fr/",
       "method": "RSS",
       "items": 5,
-      "chars": 1938,
-      "preview": "[RSS · 5 items] Balaruc-les-Bains : la Maison du Peuple retrouve son visage Art déco | Sat, 07 Nov 2"
+      "chars": 1940,
+      "preview": "[RSS · 5 items] Arthur Dupuy expose Sète à Art Montpellier 2026 sur le stand de la Ville | Fri, 13 N"
     },
     {
       "name": "EscapadesLR Hérault",
@@ -141,8 +141,8 @@
       "url": "https://paloma-nimes.fr/agenda/",
       "method": "RSS",
       "items": 10,
-      "chars": 3952,
-      "preview": "[RSS · 10 items] Wendy Pot, Minusciles et Ceylon, des artistes accompagné·es par Paloma, sont au mic"
+      "chars": 3900,
+      "preview": "[RSS · 10 items] Une bulle musicale au cœur des soins | Thu, 12 Nov 2026 | https://paloma-nimes.fr/b"
     },
     {
       "name": "Festival de Nîmes",
@@ -165,7 +165,7 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 5775,
+      "chars": 5992,
       "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
@@ -237,8 +237,8 @@
       "url": "https://adamconcerts.com/programmation/theatre-humour/",
       "method": "RSS",
       "items": 10,
-      "chars": 2812,
-      "preview": "[RSS · 10 items] ZAMDANE | Thu, 12 Nov 2026 | https://adamconcerts.com/zamdane-2-66254/ | Zamdane so"
+      "chars": 2842,
+      "preview": "[RSS · 10 items] INFINIMENT ROBIN | Fri, 13 Nov 2026 | https://adamconcerts.com/infiniment-robin-2-6"
     },
     {
       "name": "Marseille Comedy Club",
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 8883,
+      "chars": 9543,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 3832,
+      "chars": 4940,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -385,7 +385,7 @@
     "sources_text": 28,
     "sources_erreur": 1,
     "total_items_structured": 204,
-    "total_chars": 168800
+    "total_chars": 170115
   },
-  "timestamp": "2026-11-12T14:34:01Z"
+  "timestamp": "2026-11-13T13:52:42Z"
 }
