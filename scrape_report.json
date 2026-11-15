@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6783,
+      "chars": 6850,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5481,
+      "chars": 5569,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8821,
+      "chars": 8734,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,31 +29,31 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 6911,
-      "preview": "[RSS · 20 items] OVO, le Cirque du Soleil | Sat, 14 Nov 2026 | https://34.agendaculturel.fr/arts-du-"
+      "chars": 7041,
+      "preview": "[RSS · 20 items] Isild Le Besco, Dévoration | Sun, 15 Nov 2026 | https://34.agendaculturel.fr/exposi"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6695,
-      "preview": "[RSS · 20 items] Fabuleuse | Sat, 14 Nov 2026 | https://30.agendaculturel.fr/theatre/villeneuve-les-"
+      "chars": 6485,
+      "preview": "[RSS · 20 items] À la gare comme à la gare | Sun, 15 Nov 2026 | https://30.agendaculturel.fr/theatre"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6922,
-      "preview": "[RSS · 20 items] Concert - Musique sud-américaine | Sat, 14 Nov 2026 | https://13.agendaculturel.fr/"
+      "chars": 6820,
+      "preview": "[RSS · 20 items] Jean Gomez et Alain Chiarazzo | Sun, 15 Nov 2026 | https://13.agendaculturel.fr/con"
     },
     {
       "name": "Montpellier Events",
       "url": "https://www.montpellier-events.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 855,
+      "chars": 664,
       "preview": "L'agenda et la programmation - Montpellier Events Retrouvez ici toute la programmation du Rechercher"
     },
     {
@@ -85,8 +85,8 @@
       "url": "https://www.corum-montpellier.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 548,
-      "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... Déplacé au Centre"
+      "chars": 357,
+      "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... REPORTÉ LE 19/06/"
     },
     {
       "name": "Victoire 2 Saint-Jean-de-Védas",
@@ -165,8 +165,8 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 5851,
-      "preview": "Cepac Silo - Marseille | Site officiel DRAG RACE FRANCE LIVE Cepac Silo – Site officiel | Billetteri"
+      "chars": 5785,
+      "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
       "name": "Le Dôme Marseille",
@@ -277,7 +277,7 @@
       "url": "https://almadance.fr/soirees-danse-montpelier-bachata-salsa-kizomba/",
       "method": "JSON-LD",
       "items": 4,
-      "chars": 1186,
+      "chars": 1183,
       "preview": "[JSON-LD · 4 événements] ALMA HEBDO BACHATA #7 | 2026-11-18 | El Salon de Tango, Mauguio | Profitez "
     },
     {
@@ -341,7 +341,7 @@
       "url": "https://www.citizenkid.com/montpellier",
       "method": "texte",
       "items": 0,
-      "chars": 3690,
+      "chars": 3651,
       "preview": "Sortie enfant Montpellier, sélection d’activités et de sorties en famille sur Montpellier avec Citiz"
     },
     {
@@ -349,7 +349,7 @@
       "url": "https://montpellier-nimes.kidiklik.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 3278,
+      "chars": 3119,
       "preview": "Le meilleur des sorties pour enfants - Montpellier à Nîmes - Kidiklik Sorry, you need to enable Java"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 9343,
+      "chars": 9446,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 5573,
+      "chars": 4555,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -385,7 +385,7 @@
     "sources_text": 27,
     "sources_erreur": 2,
     "total_items_structured": 204,
-    "total_chars": 170886
+    "total_chars": 169208
   },
-  "timestamp": "2026-11-14T12:55:44Z"
+  "timestamp": "2026-11-15T13:24:08Z"
 }
