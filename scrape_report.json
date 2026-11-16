@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6850,
+      "chars": 6847,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5569,
+      "chars": 5793,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8734,
+      "chars": 8735,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,7 +29,7 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 7041,
+      "chars": 7203,
       "preview": "[RSS · 20 items] Isild Le Besco, Dévoration | Sun, 15 Nov 2026 | https://34.agendaculturel.fr/exposi"
     },
     {
@@ -37,16 +37,16 @@
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6485,
-      "preview": "[RSS · 20 items] À la gare comme à la gare | Sun, 15 Nov 2026 | https://30.agendaculturel.fr/theatre"
+      "chars": 6237,
+      "preview": "[RSS · 20 items] Mon nom est Paeonia | Mon, 16 Nov 2026 | https://30.agendaculturel.fr/exposition/ca"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6820,
-      "preview": "[RSS · 20 items] Jean Gomez et Alain Chiarazzo | Sun, 15 Nov 2026 | https://13.agendaculturel.fr/con"
+      "chars": 7124,
+      "preview": "[RSS · 20 items] Marché aux santons et à la céramique d'Aubagne | Mon, 16 Nov 2026 | https://13.agen"
     },
     {
       "name": "Montpellier Events",
@@ -165,16 +165,16 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 5785,
+      "chars": 5793,
       "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
       "name": "Le Dôme Marseille",
       "url": "https://dome.marseille.fr/programmation",
-      "method": "erreur",
+      "method": "texte",
       "items": 0,
-      "chars": 19,
-      "preview": "[Timeout après 10s]"
+      "chars": 198,
+      "preview": "PROCHAINEMENT | Le Dôme de Marseille - Ville de Marseille Aller au contenu principal LEGENDARY ROCK "
     },
     {
       "name": "La Friche Belle de Mai",
@@ -203,17 +203,17 @@
     {
       "name": "Scène de Bayssan Béziers",
       "url": "https://scene-de-bayssan.herault.fr/1090-programmation.htm",
-      "method": "texte",
+      "method": "erreur",
       "items": 0,
-      "chars": 1851,
-      "preview": "Programme culturel | Scène de Bayssan - Site de la Scène de Bayssan Découvrez les sites et organisme"
+      "chars": 19,
+      "preview": "[Timeout après 10s]"
     },
     {
       "name": "JDS Humour Montpellier",
       "url": "https://www.jds.fr/montpellier/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
       "items": 25,
-      "chars": 8159,
+      "chars": 8167,
       "preview": "[JSON-LD · 25 événements] Redouane Bougheraba - Mon Premier Spectacle - Tournée des Zénith | 2026-12"
     },
     {
@@ -237,8 +237,8 @@
       "url": "https://adamconcerts.com/programmation/theatre-humour/",
       "method": "RSS",
       "items": 10,
-      "chars": 2842,
-      "preview": "[RSS · 10 items] INFINIMENT ROBIN | Fri, 13 Nov 2026 | https://adamconcerts.com/infiniment-robin-2-6"
+      "chars": 2884,
+      "preview": "[RSS · 10 items] KOOL & THE GANG – UB40 | Mon, 16 Nov 2026 | https://adamconcerts.com/kool-the-gang-"
     },
     {
       "name": "Marseille Comedy Club",
@@ -341,7 +341,7 @@
       "url": "https://www.citizenkid.com/montpellier",
       "method": "texte",
       "items": 0,
-      "chars": 3651,
+      "chars": 3824,
       "preview": "Sortie enfant Montpellier, sélection d’activités et de sorties en famille sur Montpellier avec Citiz"
     },
     {
@@ -349,7 +349,7 @@
       "url": "https://montpellier-nimes.kidiklik.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 3119,
+      "chars": 3547,
       "preview": "Le meilleur des sorties pour enfants - Montpellier à Nîmes - Kidiklik Sorry, you need to enable Java"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 9446,
+      "chars": 8720,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 4555,
+      "chars": 3548,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -385,7 +385,7 @@
     "sources_text": 27,
     "sources_erreur": 2,
     "total_items_structured": 204,
-    "total_chars": 169208
+    "total_chars": 166921
   },
-  "timestamp": "2026-11-15T13:24:08Z"
+  "timestamp": "2026-11-16T14:42:24Z"
 }
