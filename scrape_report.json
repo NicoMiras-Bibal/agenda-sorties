@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6847,
+      "chars": 6862,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8735,
+      "chars": 8776,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,7 +29,7 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 7203,
+      "chars": 7121,
       "preview": "[RSS · 20 items] Isild Le Besco, Dévoration | Sun, 15 Nov 2026 | https://34.agendaculturel.fr/exposi"
     },
     {
@@ -37,15 +37,15 @@
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6237,
-      "preview": "[RSS · 20 items] Mon nom est Paeonia | Mon, 16 Nov 2026 | https://30.agendaculturel.fr/exposition/ca"
+      "chars": 6202,
+      "preview": "[RSS · 20 items] À fleur de regard | Tue, 17 Nov 2026 | https://30.agendaculturel.fr/exposition/sauv"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7124,
+      "chars": 7071,
       "preview": "[RSS · 20 items] Marché aux santons et à la céramique d'Aubagne | Mon, 16 Nov 2026 | https://13.agen"
     },
     {
@@ -53,7 +53,7 @@
       "url": "https://www.montpellier-events.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 664,
+      "chars": 736,
       "preview": "L'agenda et la programmation - Montpellier Events Retrouvez ici toute la programmation du Rechercher"
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://icisete.fr/",
       "method": "RSS",
       "items": 5,
-      "chars": 1935,
-      "preview": "[RSS · 5 items] Trophée Brassens 2027 à Sète : inscriptions ouvertes jusqu’au 15 janvier | Sat, 14 N"
+      "chars": 1933,
+      "preview": "[RSS · 5 items] Vinny Murano : un regard neuf sur la peinture sétoise, à voir dès le 21 novembre | M"
     },
     {
       "name": "EscapadesLR Hérault",
@@ -85,7 +85,7 @@
       "url": "https://www.corum-montpellier.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 357,
+      "chars": 429,
       "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... REPORTÉ LE 19/06/"
     },
     {
@@ -101,7 +101,7 @@
       "url": "https://theatrejeanvilar.montpellier.fr/la-saison",
       "method": "texte",
       "items": 0,
-      "chars": 3962,
+      "chars": 3951,
       "preview": "La programmation | Théâtre Jean Vilar Aller au contenu principal Télécharger le programme Danse - Ci"
     },
     {
@@ -134,7 +134,7 @@
       "method": "texte",
       "items": 0,
       "chars": 12000,
-      "preview": "Halle Tropisme - Agenda Du mar. 10 nov. au dim. 22 nov. Chacun de nous la porte en soi Exposition d'"
+      "preview": "Halle Tropisme - Agenda mar. 05 janv. de 14h00 à 16h00 Tous les mardis de 14h00 à 16h00 Le Secours p"
     },
     {
       "name": "Paloma Nîmes",
@@ -165,7 +165,7 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 5793,
+      "chars": 5726,
       "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
@@ -203,10 +203,10 @@
     {
       "name": "Scène de Bayssan Béziers",
       "url": "https://scene-de-bayssan.herault.fr/1090-programmation.htm",
-      "method": "erreur",
+      "method": "texte",
       "items": 0,
-      "chars": 19,
-      "preview": "[Timeout après 10s]"
+      "chars": 1826,
+      "preview": "Programme culturel | Scène de Bayssan - Site de la Scène de Bayssan Découvrez les sites et organisme"
     },
     {
       "name": "JDS Humour Montpellier",
@@ -237,8 +237,8 @@
       "url": "https://adamconcerts.com/programmation/theatre-humour/",
       "method": "RSS",
       "items": 10,
-      "chars": 2884,
-      "preview": "[RSS · 10 items] KOOL & THE GANG – UB40 | Mon, 16 Nov 2026 | https://adamconcerts.com/kool-the-gang-"
+      "chars": 2874,
+      "preview": "[RSS · 10 items] AMADEUS | Tue, 17 Nov 2026 | https://adamconcerts.com/amadeus-66346/ | AMADEUS, le "
     },
     {
       "name": "Marseille Comedy Club",
@@ -251,10 +251,10 @@
     {
       "name": "Garage Comedy Marseille",
       "url": "https://garage-comedy.com/",
-      "method": "texte",
+      "method": "erreur",
       "items": 0,
-      "chars": 3029,
-      "preview": "Garage Comedy Club | Comedy Club et stand-up à Marseille Retrouvez chaque semaine notre programmatio"
+      "chars": 19,
+      "preview": "[Timeout après 10s]"
     },
     {
       "name": "Comédie Club Vieux Port Marseille",
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 8720,
+      "chars": 11522,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 3548,
+      "chars": 5213,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -385,7 +385,7 @@
     "sources_text": 27,
     "sources_erreur": 2,
     "total_items_structured": 204,
-    "total_chars": 166921
+    "total_chars": 170125
   },
-  "timestamp": "2026-11-16T14:42:24Z"
+  "timestamp": "2026-11-17T15:27:34Z"
 }

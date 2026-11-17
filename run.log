@@ -1,35 +1,35 @@
-[generate.py] 2026-11-16
+[generate.py] 2026-11-17
 Lecture agenda-config.md...
   29 événements manuels
 /home/runner/work/agenda-sorties/agenda-sorties/generate.py:346: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   ts = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 Scraping des sources...
   [1/47] Scraping : JDS Montpellier
-    → texte, 6847 chars
+    → texte, 6862 chars
   [2/47] Scraping : JDS Nîmes
     → texte, 5793 chars
   [3/47] Scraping : JDS Marseille
-    → texte, 8735 chars
+    → texte, 8776 chars
   [4/47] Scraping : Agenda Culturel 34 Montpellier
-    → RSS, 7203 chars, 20 items
+    → RSS, 7121 chars, 20 items
   [5/47] Scraping : Agenda Culturel 30 Nîmes
-    → RSS, 6237 chars, 20 items
+    → RSS, 6202 chars, 20 items
   [6/47] Scraping : Agenda Culturel 13 Marseille
-    → RSS, 7124 chars, 20 items
+    → RSS, 7071 chars, 20 items
   [7/47] Scraping : Montpellier Events
-    → texte, 664 chars
+    → texte, 736 chars
   [8/47] Scraping : IciSète
-    → RSS, 1935 chars, 5 items
+    → RSS, 1933 chars, 5 items
   [9/47] Scraping : EscapadesLR Hérault
     → JSON-LD, 25 chars, 1 items
   [10/47] Scraping : Zénith Sud Montpellier
     → texte, 164 chars
   [11/47] Scraping : Le Corum Montpellier
-    → texte, 357 chars
+    → texte, 429 chars
   [12/47] Scraping : Victoire 2 Saint-Jean-de-Védas
     → texte, 1910 chars
   [13/47] Scraping : Théâtre Jean Vilar Montpellier
-    → texte, 3962 chars
+    → texte, 3951 chars
   [14/47] Scraping : Opéra Comédie Montpellier
     → RSS, 3206 chars, 10 items
   [15/47] Scraping : Domaine d'O Montpellier
@@ -45,7 +45,7 @@ Scraping des sources...
   [20/47] Scraping : Théâtre de Nîmes
     → RSS, 1732 chars, 10 items
   [21/47] Scraping : Le Silo Marseille
-    → texte, 5793 chars
+    → texte, 5726 chars
   [22/47] Scraping : Le Dôme Marseille
     → texte, 198 chars
   [23/47] Scraping : La Friche Belle de Mai
@@ -55,7 +55,7 @@ Scraping des sources...
   [25/47] Scraping : Théâtre de la Mer Sète
     → texte, 679 chars
   [26/47] Scraping : Scène de Bayssan Béziers
-    → erreur, 19 chars
+    → texte, 1826 chars
   [27/47] Scraping : JDS Humour Montpellier
     → JSON-LD, 8167 chars, 25 items
   [28/47] Scraping : JDS Humour Nîmes
@@ -63,11 +63,11 @@ Scraping des sources...
   [29/47] Scraping : Fnac Humour Montpellier
     → erreur, 19 chars
   [30/47] Scraping : Adam Concerts Humour
-    → RSS, 2884 chars, 10 items
+    → RSS, 2874 chars, 10 items
   [31/47] Scraping : Marseille Comedy Club
     → RSS, 621 chars, 2 items
   [32/47] Scraping : Garage Comedy Marseille
-    → texte, 3029 chars
+    → erreur, 19 chars
   [33/47] Scraping : Comédie Club Vieux Port Marseille
     → texte, 4396 chars
   [34/47] Scraping : Temple de la Danse Montpellier
@@ -93,9 +93,9 @@ Scraping des sources...
   [44/47] Scraping : Kidiklik Montpellier-Nîmes
     → texte, 3547 chars
   [45/47] Scraping : AlloCiné Pathé Odysseum
-    → texte, 8720 chars
+    → texte, 11522 chars
   [46/47] Scraping : AlloCiné Mégarama Saint-Gély
-    → texte, 3548 chars
+    → texte, 5213 chars
   [47/47] Scraping : Arènes de Béziers Feria 2026
     → RSS, 2013 chars, 10 items
 Sauvegarde scrape_report.json...
@@ -136,15 +136,15 @@ Recherches Gemini Search (couche 3)...
   [Gemini 15/15] Films cinéma Pathé Odysseum
     → Erreur : ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-
   Gemini non disponible — pipeline continue avec scrape seul
-  Scrape tronqué : 170627 → 110000 chars
+  Scrape tronqué : 173831 → 110000 chars
   Contenu total Claude : 110000 chars (scrape seul)
 Conversion événements manuels...
   0 événements confirmés (agenda-config.md)
 Extraction nouveaux événements depuis le scrape + Gemini (claude-haiku-4-5)...
-  [Claude raw début] '```json\n[{"date":"2026-11-15","titre":"Isild Le Besco, Dévoration","cat":"expo","lieu":"Sète","note":"Exposition pictrale, 20 ans de pratique","fils":false,"stars":1,"section":"expos","url":"https://34.agendaculturel.fr/exposition/sete/isild-le-besco-devoration.html","gratuit":false,"groupe":""},{"d'
-  133 nouveaux événements extraits depuis les sources
-  Filtre scrapés : -36 passés, -0 génériques, 0 cat. corrigées → 97 retenus
-  Total : 97 événements (0 manuels + 97 scrapés)
+  [Claude raw début] '```json\n[{"date":"2026-11-15","titre":"Isild Le Besco, Dévoration","cat":"expo","lieu":"Sète","note":"Exposition pictural de l\'artiste Isild Le Besco","fils":false,"stars":1,"section":"expos","url":"https://34.agendaculturel.fr/exposition/sete/isild-le-besco-devoration.html","gratuit":false,"groupe"'
+  170 nouveaux événements extraits depuis les sources
+  Filtre scrapés : -30 passés, -0 génériques, 0 cat. corrigées → 140 retenus
+  Total : 140 événements (0 manuels + 140 scrapés)
 Sauvegarde events_extracted.json...
 Injection dans template2.html...
 index.html généré avec succès.
