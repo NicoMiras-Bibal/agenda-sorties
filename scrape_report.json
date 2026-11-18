@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8776,
+      "chars": 8703,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,7 +29,7 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 7121,
+      "chars": 7203,
       "preview": "[RSS · 20 items] Isild Le Besco, Dévoration | Sun, 15 Nov 2026 | https://34.agendaculturel.fr/exposi"
     },
     {
@@ -45,8 +45,8 @@
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7071,
-      "preview": "[RSS · 20 items] Marché aux santons et à la céramique d'Aubagne | Mon, 16 Nov 2026 | https://13.agen"
+      "chars": 7018,
+      "preview": "[RSS · 20 items] Exposition : Nouvè en Prouvènço - Noël en Provence | Wed, 18 Nov 2026 | https://13."
     },
     {
       "name": "Montpellier Events",
@@ -59,10 +59,10 @@
     {
       "name": "IciSète",
       "url": "https://icisete.fr/",
-      "method": "RSS",
-      "items": 5,
-      "chars": 1933,
-      "preview": "[RSS · 5 items] Vinny Murano : un regard neuf sur la peinture sétoise, à voir dès le 21 novembre | M"
+      "method": "texte",
+      "items": 0,
+      "chars": 98,
+      "preview": "Un instant, s'il vous plaÃ®tâ¦ Votre demande est en cours de vÃ©rification, veuillez patienterâ¦"
     },
     {
       "name": "EscapadesLR Hérault",
@@ -93,7 +93,7 @@
       "url": "https://www.victoire2.com/",
       "method": "texte",
       "items": 0,
-      "chars": 1910,
+      "chars": 1942,
       "preview": "Victoire 2 – Salle de concert et studios à Montpellier Passi + Tanis : le concert du samedi 31 octob"
     },
     {
@@ -101,8 +101,8 @@
       "url": "https://theatrejeanvilar.montpellier.fr/la-saison",
       "method": "texte",
       "items": 0,
-      "chars": 3951,
-      "preview": "La programmation | Théâtre Jean Vilar Aller au contenu principal Télécharger le programme Danse - Ci"
+      "chars": 3824,
+      "preview": "La programmation | Théâtre Jean Vilar Aller au contenu principal Télécharger le programme Grande soi"
     },
     {
       "name": "Opéra Comédie Montpellier",
@@ -117,7 +117,7 @@
       "url": "https://www.domainedo.fr/spectacles/tous-les-spectacles",
       "method": "texte",
       "items": 0,
-      "chars": 1215,
+      "chars": 1244,
       "preview": "| Cité européenne du théâtre Domaine d'O Montpellier Aller au contenu principal Tous les spectacles "
     },
     {
@@ -155,17 +155,17 @@
     {
       "name": "Théâtre de Nîmes",
       "url": "https://theatredenimes.com/programme/",
-      "method": "RSS",
-      "items": 10,
-      "chars": 1732,
-      "preview": "[RSS · 10 items] Dimitri Chamblas & Boris Charmatz | Thu, 04 Jun 2026 | https://theatredenimes.com/s"
+      "method": "texte",
+      "items": 0,
+      "chars": 98,
+      "preview": "Un instant, s'il vous plaÃ®tâ¦ Votre demande est en cours de vÃ©rification, veuillez patienterâ¦"
     },
     {
       "name": "Le Silo Marseille",
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 5726,
+      "chars": 5668,
       "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
@@ -237,8 +237,8 @@
       "url": "https://adamconcerts.com/programmation/theatre-humour/",
       "method": "RSS",
       "items": 10,
-      "chars": 2874,
-      "preview": "[RSS · 10 items] AMADEUS | Tue, 17 Nov 2026 | https://adamconcerts.com/amadeus-66346/ | AMADEUS, le "
+      "chars": 2860,
+      "preview": "[RSS · 10 items] EMY | Wed, 18 Nov 2026 | https://adamconcerts.com/emy-66499/ | D’aussi loin qu’elle"
     },
     {
       "name": "Marseille Comedy Club",
@@ -251,10 +251,10 @@
     {
       "name": "Garage Comedy Marseille",
       "url": "https://garage-comedy.com/",
-      "method": "erreur",
+      "method": "texte",
       "items": 0,
-      "chars": 19,
-      "preview": "[Timeout après 10s]"
+      "chars": 3029,
+      "preview": "Garage Comedy Club | Comedy Club et stand-up à Marseille Retrouvez chaque semaine notre programmatio"
     },
     {
       "name": "Comédie Club Vieux Port Marseille",
@@ -269,7 +269,7 @@
       "url": "https://templededanse.com/soirees-temple-de-la-danse-montpellier",
       "method": "texte",
       "items": 0,
-      "chars": 1976,
+      "chars": 1977,
       "preview": "Le Temple — bistro, bar dansant & école de danse à Lattes 260 rue du Puech Radier · Lattes On y dîne"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 11522,
+      "chars": 8512,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,27 +365,27 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 5213,
+      "chars": 4340,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
       "name": "Arènes de Béziers Feria 2026",
       "url": "https://www.arenes-beziers.com/ferias-2026/",
-      "method": "RSS",
-      "items": 10,
-      "chars": 2013,
-      "preview": "[RSS · 10 items] Avant dernier Toro piscine de la saison ! | Wed, 19 Aug 2026 | https://www.arenes-b"
+      "method": "texte",
+      "items": 0,
+      "chars": 98,
+      "preview": "Un instant, s'il vous plaÃ®tâ¦ Votre demande est en cours de vÃ©rification, veuillez patienterâ¦"
     }
   ],
   "totals": {
     "sources_total": 47,
     "sources_skip": 0,
-    "sources_rss": 14,
+    "sources_rss": 11,
     "sources_jsonld": 4,
-    "sources_text": 27,
-    "sources_erreur": 2,
-    "total_items_structured": 204,
-    "total_chars": 170125
+    "sources_text": 31,
+    "sources_erreur": 1,
+    "total_items_structured": 179,
+    "total_chars": 163687
   },
-  "timestamp": "2026-11-17T15:27:34Z"
+  "timestamp": "2026-11-18T15:02:09Z"
 }
