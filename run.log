@@ -1,25 +1,25 @@
-[generate.py] 2026-11-18
+[generate.py] 2026-11-19
 Lecture agenda-config.md...
   29 événements manuels
 /home/runner/work/agenda-sorties/agenda-sorties/generate.py:346: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   ts = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 Scraping des sources...
   [1/47] Scraping : JDS Montpellier
-    → texte, 6862 chars
+    → texte, 6850 chars
   [2/47] Scraping : JDS Nîmes
-    → texte, 5793 chars
+    → texte, 5585 chars
   [3/47] Scraping : JDS Marseille
-    → texte, 8703 chars
+    → texte, 8872 chars
   [4/47] Scraping : Agenda Culturel 34 Montpellier
-    → RSS, 7203 chars, 20 items
+    → RSS, 6973 chars, 20 items
   [5/47] Scraping : Agenda Culturel 30 Nîmes
-    → RSS, 6202 chars, 20 items
+    → RSS, 6376 chars, 20 items
   [6/47] Scraping : Agenda Culturel 13 Marseille
-    → RSS, 7018 chars, 20 items
+    → RSS, 7161 chars, 20 items
   [7/47] Scraping : Montpellier Events
     → texte, 736 chars
   [8/47] Scraping : IciSète
-    → texte, 98 chars
+    → RSS, 1996 chars, 5 items
   [9/47] Scraping : EscapadesLR Hérault
     → JSON-LD, 25 chars, 1 items
   [10/47] Scraping : Zénith Sud Montpellier
@@ -27,7 +27,7 @@ Scraping des sources...
   [11/47] Scraping : Le Corum Montpellier
     → texte, 429 chars
   [12/47] Scraping : Victoire 2 Saint-Jean-de-Védas
-    → texte, 1942 chars
+    → texte, 1909 chars
   [13/47] Scraping : Théâtre Jean Vilar Montpellier
     → texte, 3824 chars
   [14/47] Scraping : Opéra Comédie Montpellier
@@ -43,13 +43,13 @@ Scraping des sources...
   [19/47] Scraping : Festival de Nîmes
     → texte, 36 chars
   [20/47] Scraping : Théâtre de Nîmes
-    → texte, 98 chars
+    → RSS, 1732 chars, 10 items
   [21/47] Scraping : Le Silo Marseille
-    → texte, 5668 chars
+    → texte, 5702 chars
   [22/47] Scraping : Le Dôme Marseille
-    → texte, 198 chars
+    → texte, 204 chars
   [23/47] Scraping : La Friche Belle de Mai
-    → RSS, 2939 chars, 10 items
+    → RSS, 3065 chars, 10 items
   [24/47] Scraping : Le Moulin Marseille
     → texte, 147 chars
   [25/47] Scraping : Théâtre de la Mer Sète
@@ -57,9 +57,9 @@ Scraping des sources...
   [26/47] Scraping : Scène de Bayssan Béziers
     → texte, 1826 chars
   [27/47] Scraping : JDS Humour Montpellier
-    → JSON-LD, 8167 chars, 25 items
+    → JSON-LD, 8162 chars, 25 items
   [28/47] Scraping : JDS Humour Nîmes
-    → JSON-LD, 8005 chars, 25 items
+    → JSON-LD, 8113 chars, 25 items
   [29/47] Scraping : Fnac Humour Montpellier
     → erreur, 19 chars
   [30/47] Scraping : Adam Concerts Humour
@@ -73,7 +73,7 @@ Scraping des sources...
   [34/47] Scraping : Temple de la Danse Montpellier
     → texte, 1977 chars
   [35/47] Scraping : Alma Dance Montpellier
-    → JSON-LD, 1183 chars, 4 items
+    → JSON-LD, 1185 chars, 4 items
   [36/47] Scraping : Liste Salsa d'Olivier Hérault 34
     → texte, 12000 chars
   [37/47] Scraping : Toutlemondedanse Montpellier
@@ -93,13 +93,13 @@ Scraping des sources...
   [44/47] Scraping : Kidiklik Montpellier-Nîmes
     → texte, 3547 chars
   [45/47] Scraping : AlloCiné Pathé Odysseum
-    → texte, 8512 chars
+    → texte, 7134 chars
   [46/47] Scraping : AlloCiné Mégarama Saint-Gély
-    → texte, 4340 chars
+    → texte, 4233 chars
   [47/47] Scraping : Arènes de Béziers Feria 2026
-    → texte, 98 chars
+    → RSS, 2013 chars, 10 items
 Sauvegarde scrape_report.json...
-  47 sources — RSS:11 JSON-LD:4 texte:31 skip:0 erreur:1 | 179 items structurés
+  47 sources — RSS:14 JSON-LD:4 texte:28 skip:0 erreur:1 | 204 items structurés
 Recherches Gemini Search (couche 3)...
   [Gemini] gemini-2.0-flash : modèle non disponible
   [Gemini] gemini-2.0-flash-lite : modèle non disponible
@@ -136,15 +136,15 @@ Recherches Gemini Search (couche 3)...
   [Gemini 15/15] Films cinéma Pathé Odysseum
     → Erreur : ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-
   Gemini non disponible — pipeline continue avec scrape seul
-  Scrape tronqué : 167393 → 110000 chars
+  Scrape tronqué : 171629 → 110000 chars
   Contenu total Claude : 110000 chars (scrape seul)
 Conversion événements manuels...
   0 événements confirmés (agenda-config.md)
 Extraction nouveaux événements depuis le scrape + Gemini (claude-haiku-4-5)...
-  [Claude raw début] '```json\n[{"date":"2026-11-15","titre":"Isild Le Besco, Dévoration","cat":"expo","lieu":"Sète","note":"Exposition pictural, 20 ans de pratique","fils":false,"stars":1,"section":"expos","url":"https://34.agendaculturel.fr/exposition/sete/isild-le-besco-devoration.html","gratuit":false,"groupe":""},{"d'
-  190 nouveaux événements extraits depuis les sources
-  Filtre scrapés : -33 passés, -0 génériques, 0 cat. corrigées → 157 retenus
-  Total : 157 événements (0 manuels + 157 scrapés)
+  [Claude raw début] '```json\n[{"date":"2026-11-19","titre":"Hommage Astor Piazzolla avec Quinteto Libertad","cat":"concert","lieu":"Sète","note":"Concert de tango argentin","fils":false,"stars":1,"section":"concerts","url":"https://34.agendaculturel.fr/concert/sete/hommage-astor-piazzolla-avec-quinteto-libertad.html","g'
+  111 nouveaux événements extraits depuis les sources
+  Filtre scrapés : -14 passés, -0 génériques, 0 cat. corrigées → 97 retenus
+  Total : 97 événements (0 manuels + 97 scrapés)
 Sauvegarde events_extracted.json...
 Injection dans template2.html...
 index.html généré avec succès.

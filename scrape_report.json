@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6862,
+      "chars": 6850,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5793,
+      "chars": 5585,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8703,
+      "chars": 8872,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,15 +29,15 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 7203,
-      "preview": "[RSS · 20 items] Isild Le Besco, Dévoration | Sun, 15 Nov 2026 | https://34.agendaculturel.fr/exposi"
+      "chars": 6973,
+      "preview": "[RSS · 20 items] Hommage Astor Piazzolla avec Quinteto Libertad | Thu, 19 Nov 2026 | https://34.agen"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6202,
+      "chars": 6376,
       "preview": "[RSS · 20 items] À fleur de regard | Tue, 17 Nov 2026 | https://30.agendaculturel.fr/exposition/sauv"
     },
     {
@@ -45,8 +45,8 @@
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7018,
-      "preview": "[RSS · 20 items] Exposition : Nouvè en Prouvènço - Noël en Provence | Wed, 18 Nov 2026 | https://13."
+      "chars": 7161,
+      "preview": "[RSS · 20 items] Crash Test | Thu, 19 Nov 2026 | https://13.agendaculturel.fr/theatre/marseille/cras"
     },
     {
       "name": "Montpellier Events",
@@ -59,10 +59,10 @@
     {
       "name": "IciSète",
       "url": "https://icisete.fr/",
-      "method": "texte",
-      "items": 0,
-      "chars": 98,
-      "preview": "Un instant, s'il vous plaÃ®tâ¦ Votre demande est en cours de vÃ©rification, veuillez patienterâ¦"
+      "method": "RSS",
+      "items": 5,
+      "chars": 1996,
+      "preview": "[RSS · 5 items] Th’oc Chef : le jeu sur les saveurs du bassin de Thau, lancé à Balaruc-les-Bains | T"
     },
     {
       "name": "EscapadesLR Hérault",
@@ -93,7 +93,7 @@
       "url": "https://www.victoire2.com/",
       "method": "texte",
       "items": 0,
-      "chars": 1942,
+      "chars": 1909,
       "preview": "Victoire 2 – Salle de concert et studios à Montpellier Passi + Tanis : le concert du samedi 31 octob"
     },
     {
@@ -155,17 +155,17 @@
     {
       "name": "Théâtre de Nîmes",
       "url": "https://theatredenimes.com/programme/",
-      "method": "texte",
-      "items": 0,
-      "chars": 98,
-      "preview": "Un instant, s'il vous plaÃ®tâ¦ Votre demande est en cours de vÃ©rification, veuillez patienterâ¦"
+      "method": "RSS",
+      "items": 10,
+      "chars": 1732,
+      "preview": "[RSS · 10 items] Dimitri Chamblas & Boris Charmatz | Thu, 04 Jun 2026 | https://theatredenimes.com/s"
     },
     {
       "name": "Le Silo Marseille",
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 5668,
+      "chars": 5702,
       "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
@@ -173,16 +173,16 @@
       "url": "https://dome.marseille.fr/programmation",
       "method": "texte",
       "items": 0,
-      "chars": 198,
-      "preview": "PROCHAINEMENT | Le Dôme de Marseille - Ville de Marseille Aller au contenu principal LEGENDARY ROCK "
+      "chars": 204,
+      "preview": "PROCHAINEMENT | Le Dôme de Marseille - Ville de Marseille Aller au contenu principal GOLDMEN : Conce"
     },
     {
       "name": "La Friche Belle de Mai",
       "url": "https://www.lafriche.org/temps-forts/",
       "method": "RSS",
       "items": 10,
-      "chars": 2939,
-      "preview": "[RSS · 10 items] Hakis | Mon, 09 Nov 2026 | https://www.lafriche.org/magazine/hakis/ | Rencontre ave"
+      "chars": 3065,
+      "preview": "[RSS · 10 items] La Friche la Belle de Mai, 30 ans d’expérimentation de pratiques de coopération | W"
     },
     {
       "name": "Le Moulin Marseille",
@@ -213,7 +213,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
       "items": 25,
-      "chars": 8167,
+      "chars": 8162,
       "preview": "[JSON-LD · 25 événements] Redouane Bougheraba - Mon Premier Spectacle - Tournée des Zénith | 2026-12"
     },
     {
@@ -221,7 +221,7 @@
       "url": "https://www.jds.fr/nimes/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
       "items": 25,
-      "chars": 8005,
+      "chars": 8113,
       "preview": "[JSON-LD · 25 événements] Anthony Joubert - le Diner de Cons | 2027-01-17 | Vergeze Espace, Vergèze "
     },
     {
@@ -277,8 +277,8 @@
       "url": "https://almadance.fr/soirees-danse-montpelier-bachata-salsa-kizomba/",
       "method": "JSON-LD",
       "items": 4,
-      "chars": 1183,
-      "preview": "[JSON-LD · 4 événements] ALMA HEBDO BACHATA #7 | 2026-11-18 | El Salon de Tango, Mauguio | Profitez "
+      "chars": 1185,
+      "preview": "[JSON-LD · 4 événements] ALMA HEBDO BACHATA #8 | 2026-11-25 | El Salon de Tango, Mauguio | Profitez "
     },
     {
       "name": "Liste Salsa d'Olivier Hérault 34",
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 8512,
+      "chars": 7134,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,27 +365,27 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 4340,
+      "chars": 4233,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
       "name": "Arènes de Béziers Feria 2026",
       "url": "https://www.arenes-beziers.com/ferias-2026/",
-      "method": "texte",
-      "items": 0,
-      "chars": 98,
-      "preview": "Un instant, s'il vous plaÃ®tâ¦ Votre demande est en cours de vÃ©rification, veuillez patienterâ¦"
+      "method": "RSS",
+      "items": 10,
+      "chars": 2013,
+      "preview": "[RSS · 10 items] Avant dernier Toro piscine de la saison ! | Wed, 19 Aug 2026 | https://www.arenes-b"
     }
   ],
   "totals": {
     "sources_total": 47,
     "sources_skip": 0,
-    "sources_rss": 11,
+    "sources_rss": 14,
     "sources_jsonld": 4,
-    "sources_text": 31,
+    "sources_text": 28,
     "sources_erreur": 1,
-    "total_items_structured": 179,
-    "total_chars": 163687
+    "total_items_structured": 204,
+    "total_chars": 167923
   },
-  "timestamp": "2026-11-18T15:02:09Z"
+  "timestamp": "2026-11-19T15:11:57Z"
 }
