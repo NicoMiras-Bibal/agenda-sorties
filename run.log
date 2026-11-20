@@ -1,33 +1,33 @@
-[generate.py] 2026-11-19
+[generate.py] 2026-11-20
 Lecture agenda-config.md...
   29 événements manuels
 /home/runner/work/agenda-sorties/agenda-sorties/generate.py:346: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   ts = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 Scraping des sources...
   [1/47] Scraping : JDS Montpellier
-    → texte, 6850 chars
+    → texte, 6858 chars
   [2/47] Scraping : JDS Nîmes
-    → texte, 5585 chars
+    → texte, 5731 chars
   [3/47] Scraping : JDS Marseille
-    → texte, 8872 chars
+    → texte, 8517 chars
   [4/47] Scraping : Agenda Culturel 34 Montpellier
-    → RSS, 6973 chars, 20 items
+    → RSS, 6921 chars, 20 items
   [5/47] Scraping : Agenda Culturel 30 Nîmes
-    → RSS, 6376 chars, 20 items
+    → RSS, 6557 chars, 20 items
   [6/47] Scraping : Agenda Culturel 13 Marseille
-    → RSS, 7161 chars, 20 items
+    → RSS, 7049 chars, 20 items
   [7/47] Scraping : Montpellier Events
-    → texte, 736 chars
+    → texte, 915 chars
   [8/47] Scraping : IciSète
-    → RSS, 1996 chars, 5 items
+    → RSS, 2016 chars, 5 items
   [9/47] Scraping : EscapadesLR Hérault
     → JSON-LD, 25 chars, 1 items
   [10/47] Scraping : Zénith Sud Montpellier
     → texte, 164 chars
   [11/47] Scraping : Le Corum Montpellier
-    → texte, 429 chars
+    → texte, 608 chars
   [12/47] Scraping : Victoire 2 Saint-Jean-de-Védas
-    → texte, 1909 chars
+    → texte, 1866 chars
   [13/47] Scraping : Théâtre Jean Vilar Montpellier
     → texte, 3824 chars
   [14/47] Scraping : Opéra Comédie Montpellier
@@ -45,7 +45,7 @@ Scraping des sources...
   [20/47] Scraping : Théâtre de Nîmes
     → RSS, 1732 chars, 10 items
   [21/47] Scraping : Le Silo Marseille
-    → texte, 5702 chars
+    → texte, 5640 chars
   [22/47] Scraping : Le Dôme Marseille
     → texte, 204 chars
   [23/47] Scraping : La Friche Belle de Mai
@@ -59,11 +59,11 @@ Scraping des sources...
   [27/47] Scraping : JDS Humour Montpellier
     → JSON-LD, 8162 chars, 25 items
   [28/47] Scraping : JDS Humour Nîmes
-    → JSON-LD, 8113 chars, 25 items
+    → JSON-LD, 8112 chars, 25 items
   [29/47] Scraping : Fnac Humour Montpellier
     → erreur, 19 chars
   [30/47] Scraping : Adam Concerts Humour
-    → RSS, 2860 chars, 10 items
+    → RSS, 2849 chars, 10 items
   [31/47] Scraping : Marseille Comedy Club
     → RSS, 621 chars, 2 items
   [32/47] Scraping : Garage Comedy Marseille
@@ -91,11 +91,11 @@ Scraping des sources...
   [43/47] Scraping : CitizenKid Montpellier
     → texte, 3824 chars
   [44/47] Scraping : Kidiklik Montpellier-Nîmes
-    → texte, 3547 chars
+    → texte, 3759 chars
   [45/47] Scraping : AlloCiné Pathé Odysseum
-    → texte, 7134 chars
+    → texte, 7521 chars
   [46/47] Scraping : AlloCiné Mégarama Saint-Gély
-    → texte, 4233 chars
+    → texte, 4022 chars
   [47/47] Scraping : Arènes de Béziers Feria 2026
     → RSS, 2013 chars, 10 items
 Sauvegarde scrape_report.json...
@@ -136,15 +136,15 @@ Recherches Gemini Search (couche 3)...
   [Gemini 15/15] Films cinéma Pathé Odysseum
     → Erreur : ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-
   Gemini non disponible — pipeline continue avec scrape seul
-  Scrape tronqué : 171629 → 110000 chars
+  Scrape tronqué : 172094 → 110000 chars
   Contenu total Claude : 110000 chars (scrape seul)
 Conversion événements manuels...
   0 événements confirmés (agenda-config.md)
 Extraction nouveaux événements depuis le scrape + Gemini (claude-haiku-4-5)...
-  [Claude raw début] '```json\n[{"date":"2026-11-19","titre":"Hommage Astor Piazzolla avec Quinteto Libertad","cat":"concert","lieu":"Sète","note":"Concert de tango argentin","fils":false,"stars":1,"section":"concerts","url":"https://34.agendaculturel.fr/concert/sete/hommage-astor-piazzolla-avec-quinteto-libertad.html","g'
-  111 nouveaux événements extraits depuis les sources
-  Filtre scrapés : -14 passés, -0 génériques, 0 cat. corrigées → 97 retenus
-  Total : 97 événements (0 manuels + 97 scrapés)
+  [Claude raw début] '```json\n[{"date":"2026-11-20","titre":"Quartier Libre","cat":"theatre","lieu":"Montpellier, Hérault","note":"Théâtre contemporain inspiré de l\'expérience de rue","fils":false,"stars":1,"section":"expos","url":"https://34.agendaculturel.fr/theatre/montpellier/quartier-libre.html","gratuit":false,"gro'
+  92 nouveaux événements extraits depuis les sources
+  Filtre scrapés : -0 passés, -0 génériques, 0 cat. corrigées → 92 retenus
+  Total : 92 événements (0 manuels + 92 scrapés)
 Sauvegarde events_extracted.json...
 Injection dans template2.html...
 index.html généré avec succès.

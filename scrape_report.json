@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6850,
+      "chars": 6858,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5585,
+      "chars": 5731,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8872,
+      "chars": 8517,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,15 +29,15 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 6973,
-      "preview": "[RSS · 20 items] Hommage Astor Piazzolla avec Quinteto Libertad | Thu, 19 Nov 2026 | https://34.agen"
+      "chars": 6921,
+      "preview": "[RSS · 20 items] Quartier Libre | Fri, 20 Nov 2026 | https://34.agendaculturel.fr/theatre/montpellie"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6376,
+      "chars": 6557,
       "preview": "[RSS · 20 items] À fleur de regard | Tue, 17 Nov 2026 | https://30.agendaculturel.fr/exposition/sauv"
     },
     {
@@ -45,15 +45,15 @@
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7161,
-      "preview": "[RSS · 20 items] Crash Test | Thu, 19 Nov 2026 | https://13.agendaculturel.fr/theatre/marseille/cras"
+      "chars": 7049,
+      "preview": "[RSS · 20 items] Exposition des artistes des ateliers de la ville de Marseille | Fri, 20 Nov 2026 | "
     },
     {
       "name": "Montpellier Events",
       "url": "https://www.montpellier-events.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 736,
+      "chars": 915,
       "preview": "L'agenda et la programmation - Montpellier Events Retrouvez ici toute la programmation du Rechercher"
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://icisete.fr/",
       "method": "RSS",
       "items": 5,
-      "chars": 1996,
-      "preview": "[RSS · 5 items] Th’oc Chef : le jeu sur les saveurs du bassin de Thau, lancé à Balaruc-les-Bains | T"
+      "chars": 2016,
+      "preview": "[RSS · 5 items] Marché de Noël de la Pointe Courte à Sète : 20 stands faits main le 21 novembre | Fr"
     },
     {
       "name": "EscapadesLR Hérault",
@@ -85,7 +85,7 @@
       "url": "https://www.corum-montpellier.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 429,
+      "chars": 608,
       "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... REPORTÉ LE 19/06/"
     },
     {
@@ -93,7 +93,7 @@
       "url": "https://www.victoire2.com/",
       "method": "texte",
       "items": 0,
-      "chars": 1909,
+      "chars": 1866,
       "preview": "Victoire 2 – Salle de concert et studios à Montpellier Passi + Tanis : le concert du samedi 31 octob"
     },
     {
@@ -165,7 +165,7 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 5702,
+      "chars": 5640,
       "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
@@ -221,7 +221,7 @@
       "url": "https://www.jds.fr/nimes/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
       "items": 25,
-      "chars": 8113,
+      "chars": 8112,
       "preview": "[JSON-LD · 25 événements] Anthony Joubert - le Diner de Cons | 2027-01-17 | Vergeze Espace, Vergèze "
     },
     {
@@ -237,8 +237,8 @@
       "url": "https://adamconcerts.com/programmation/theatre-humour/",
       "method": "RSS",
       "items": 10,
-      "chars": 2860,
-      "preview": "[RSS · 10 items] EMY | Wed, 18 Nov 2026 | https://adamconcerts.com/emy-66499/ | D’aussi loin qu’elle"
+      "chars": 2849,
+      "preview": "[RSS · 10 items] FOREVER 90’S | Thu, 19 Nov 2026 | https://adamconcerts.com/forever-90s-65728/ | Il "
     },
     {
       "name": "Marseille Comedy Club",
@@ -349,7 +349,7 @@
       "url": "https://montpellier-nimes.kidiklik.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 3547,
+      "chars": 3759,
       "preview": "Le meilleur des sorties pour enfants - Montpellier à Nîmes - Kidiklik Sorry, you need to enable Java"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 7134,
+      "chars": 7521,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 4233,
+      "chars": 4022,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -385,7 +385,7 @@
     "sources_text": 28,
     "sources_erreur": 1,
     "total_items_structured": 204,
-    "total_chars": 167923
+    "total_chars": 168388
   },
-  "timestamp": "2026-11-19T15:11:57Z"
+  "timestamp": "2026-11-20T14:51:02Z"
 }
