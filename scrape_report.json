@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6651,
+      "chars": 6557,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5713,
+      "chars": 5628,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8562,
+      "chars": 8700,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,24 +29,24 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 6653,
-      "preview": "[RSS · 20 items] Jetlag Gang | Sat, 21 Nov 2026 | https://34.agendaculturel.fr/concert/montpellier/j"
+      "chars": 6801,
+      "preview": "[RSS · 20 items] Le Week-end des parents | Sun, 22 Nov 2026 | https://34.agendaculturel.fr/theatre/s"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6674,
-      "preview": "[RSS · 20 items] À fleur de regard | Tue, 17 Nov 2026 | https://30.agendaculturel.fr/exposition/sauv"
+      "chars": 6541,
+      "preview": "[RSS · 20 items] Les trois petits cochons en chanson ! | Sun, 22 Nov 2026 | https://30.agendaculture"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7171,
-      "preview": "[RSS · 20 items] Clément Petibon | Sat, 21 Nov 2026 | https://13.agendaculturel.fr/exposition/marsei"
+      "chars": 6989,
+      "preview": "[RSS · 20 items] Récital de piano \"Voyage à Cuba\" | Sun, 22 Nov 2026 | https://13.agendaculturel.fr/"
     },
     {
       "name": "Montpellier Events",
@@ -61,8 +61,8 @@
       "url": "https://icisete.fr/",
       "method": "RSS",
       "items": 5,
-      "chars": 2016,
-      "preview": "[RSS · 5 items] Centre culturel Léo Malet à Mireval : fin des travaux sur la dalle des gradins | Sat"
+      "chars": 1983,
+      "preview": "[RSS · 5 items] Sète : Gabriel de Pouzilhac, d’Oh Gobie, intronisé par les Mille et une Pâtes | Sun,"
     },
     {
       "name": "EscapadesLR Hérault",
@@ -117,7 +117,7 @@
       "url": "https://www.domainedo.fr/spectacles/tous-les-spectacles",
       "method": "texte",
       "items": 0,
-      "chars": 1244,
+      "chars": 1193,
       "preview": "| Cité européenne du théâtre Domaine d'O Montpellier Aller au contenu principal Tous les spectacles "
     },
     {
@@ -165,16 +165,16 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 5725,
-      "preview": "Cepac Silo - Marseille | Site officiel Kad Merad & Michèle Laroque Cepac Silo – Site officiel | Bill"
+      "chars": 5769,
+      "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
       "name": "Le Dôme Marseille",
       "url": "https://dome.marseille.fr/programmation",
-      "method": "texte",
+      "method": "erreur",
       "items": 0,
-      "chars": 204,
-      "preview": "PROCHAINEMENT | Le Dôme de Marseille - Ville de Marseille Aller au contenu principal GOLDMEN : Conce"
+      "chars": 19,
+      "preview": "[Timeout après 10s]"
     },
     {
       "name": "La Friche Belle de Mai",
@@ -203,10 +203,10 @@
     {
       "name": "Scène de Bayssan Béziers",
       "url": "https://scene-de-bayssan.herault.fr/1090-programmation.htm",
-      "method": "erreur",
+      "method": "texte",
       "items": 0,
-      "chars": 19,
-      "preview": "[Timeout après 10s]"
+      "chars": 1788,
+      "preview": "Programme culturel | Scène de Bayssan - Site de la Scène de Bayssan Découvrez les sites et organisme"
     },
     {
       "name": "JDS Humour Montpellier",
@@ -220,9 +220,9 @@
       "name": "JDS Humour Nîmes",
       "url": "https://www.jds.fr/nimes/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
-      "items": 25,
-      "chars": 8112,
-      "preview": "[JSON-LD · 25 événements] Anthony Joubert - le Diner de Cons | 2027-01-17 | Vergeze Espace, Vergèze "
+      "items": 24,
+      "chars": 7812,
+      "preview": "[JSON-LD · 24 événements] Anthony Joubert - le Diner de Cons | 2027-01-17 | Vergeze Espace, Vergèze "
     },
     {
       "name": "Fnac Humour Montpellier",
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 10160,
+      "chars": 10694,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 4703,
+      "chars": 4560,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -384,8 +384,8 @@
     "sources_jsonld": 4,
     "sources_text": 27,
     "sources_erreur": 2,
-    "total_items_structured": 204,
-    "total_chars": 169351
+    "total_items_structured": 203,
+    "total_chars": 170778
   },
-  "timestamp": "2026-11-21T14:09:35Z"
+  "timestamp": "2026-11-22T13:59:36Z"
 }
