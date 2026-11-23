@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6557,
+      "chars": 6634,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5628,
+      "chars": 5666,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8700,
+      "chars": 8779,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,24 +29,24 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 6801,
-      "preview": "[RSS · 20 items] Le Week-end des parents | Sun, 22 Nov 2026 | https://34.agendaculturel.fr/theatre/s"
+      "chars": 7101,
+      "preview": "[RSS · 20 items] Isild Le Besco, Dévoration | Sat, 21 Nov 2026 | https://34.agendaculturel.fr/exposi"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6541,
-      "preview": "[RSS · 20 items] Les trois petits cochons en chanson ! | Sun, 22 Nov 2026 | https://30.agendaculture"
+      "chars": 6427,
+      "preview": "[RSS · 20 items] Festival du Livre de Pont-St-Esprit et du Gard Rhodanien | Sun, 22 Nov 2026 | https"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6989,
-      "preview": "[RSS · 20 items] Récital de piano \"Voyage à Cuba\" | Sun, 22 Nov 2026 | https://13.agendaculturel.fr/"
+      "chars": 7221,
+      "preview": "[RSS · 20 items] Chimera de Marie de Villepin | Mon, 23 Nov 2026 | https://13.agendaculturel.fr/expo"
     },
     {
       "name": "Montpellier Events",
@@ -61,8 +61,8 @@
       "url": "https://icisete.fr/",
       "method": "RSS",
       "items": 5,
-      "chars": 1983,
-      "preview": "[RSS · 5 items] Sète : Gabriel de Pouzilhac, d’Oh Gobie, intronisé par les Mille et une Pâtes | Sun,"
+      "chars": 1968,
+      "preview": "[RSS · 5 items] Touche à Tout : un tiers-lieu de partage à Bouzigues pour septembre 2027 | Mon, 23 N"
     },
     {
       "name": "EscapadesLR Hérault",
@@ -109,15 +109,15 @@
       "url": "https://www.opera-orchestre-montpellier.fr/",
       "method": "RSS",
       "items": 10,
-      "chars": 3206,
-      "preview": "[RSS · 10 items] Les vacances de la Toussaint à l’Opéra | Fri, 09 Oct 2026 | https://www.opera-orche"
+      "chars": 3351,
+      "preview": "[RSS · 10 items] Exils #3 | Entretien avec Elżbieta Sikora, compositrice du Concerto pour flûte en c"
     },
     {
       "name": "Domaine d'O Montpellier",
       "url": "https://www.domainedo.fr/spectacles/tous-les-spectacles",
       "method": "texte",
       "items": 0,
-      "chars": 1193,
+      "chars": 1063,
       "preview": "| Cité européenne du théâtre Domaine d'O Montpellier Aller au contenu principal Tous les spectacles "
     },
     {
@@ -171,10 +171,10 @@
     {
       "name": "Le Dôme Marseille",
       "url": "https://dome.marseille.fr/programmation",
-      "method": "erreur",
+      "method": "texte",
       "items": 0,
-      "chars": 19,
-      "preview": "[Timeout après 10s]"
+      "chars": 204,
+      "preview": "PROCHAINEMENT | Le Dôme de Marseille - Ville de Marseille Aller au contenu principal GOLDMEN : Conce"
     },
     {
       "name": "La Friche Belle de Mai",
@@ -203,10 +203,10 @@
     {
       "name": "Scène de Bayssan Béziers",
       "url": "https://scene-de-bayssan.herault.fr/1090-programmation.htm",
-      "method": "texte",
+      "method": "erreur",
       "items": 0,
-      "chars": 1788,
-      "preview": "Programme culturel | Scène de Bayssan - Site de la Scène de Bayssan Découvrez les sites et organisme"
+      "chars": 19,
+      "preview": "[Timeout après 10s]"
     },
     {
       "name": "JDS Humour Montpellier",
@@ -341,7 +341,7 @@
       "url": "https://www.citizenkid.com/montpellier",
       "method": "texte",
       "items": 0,
-      "chars": 3785,
+      "chars": 4153,
       "preview": "Sortie enfant Montpellier, sélection d’activités et de sorties en famille sur Montpellier avec Citiz"
     },
     {
@@ -349,7 +349,7 @@
       "url": "https://montpellier-nimes.kidiklik.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 3561,
+      "chars": 3382,
       "preview": "Le meilleur des sorties pour enfants - Montpellier à Nîmes - Kidiklik Sorry, you need to enable Java"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 10694,
+      "chars": 7844,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 4560,
+      "chars": 4052,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -385,7 +385,7 @@
     "sources_text": 27,
     "sources_erreur": 2,
     "total_items_structured": 203,
-    "total_chars": 170778
+    "total_chars": 166637
   },
-  "timestamp": "2026-11-22T13:59:36Z"
+  "timestamp": "2026-11-23T17:18:00Z"
 }

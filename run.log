@@ -1,25 +1,25 @@
-[generate.py] 2026-11-22
+[generate.py] 2026-11-23
 Lecture agenda-config.md...
   29 événements manuels
 /home/runner/work/agenda-sorties/agenda-sorties/generate.py:346: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   ts = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 Scraping des sources...
   [1/47] Scraping : JDS Montpellier
-    → texte, 6557 chars
+    → texte, 6634 chars
   [2/47] Scraping : JDS Nîmes
-    → texte, 5628 chars
+    → texte, 5666 chars
   [3/47] Scraping : JDS Marseille
-    → texte, 8700 chars
+    → texte, 8779 chars
   [4/47] Scraping : Agenda Culturel 34 Montpellier
-    → RSS, 6801 chars, 20 items
+    → RSS, 7101 chars, 20 items
   [5/47] Scraping : Agenda Culturel 30 Nîmes
-    → RSS, 6541 chars, 20 items
+    → RSS, 6427 chars, 20 items
   [6/47] Scraping : Agenda Culturel 13 Marseille
-    → RSS, 6989 chars, 20 items
+    → RSS, 7221 chars, 20 items
   [7/47] Scraping : Montpellier Events
     → texte, 887 chars
   [8/47] Scraping : IciSète
-    → RSS, 1983 chars, 5 items
+    → RSS, 1968 chars, 5 items
   [9/47] Scraping : EscapadesLR Hérault
     → JSON-LD, 25 chars, 1 items
   [10/47] Scraping : Zénith Sud Montpellier
@@ -31,9 +31,9 @@ Scraping des sources...
   [13/47] Scraping : Théâtre Jean Vilar Montpellier
     → texte, 3751 chars
   [14/47] Scraping : Opéra Comédie Montpellier
-    → RSS, 3206 chars, 10 items
+    → RSS, 3351 chars, 10 items
   [15/47] Scraping : Domaine d'O Montpellier
-    → texte, 1193 chars
+    → texte, 1063 chars
   [16/47] Scraping : Le Jam Montpellier (jazz)
     → RSS, 3600 chars, 10 items
   [17/47] Scraping : Halle Tropisme Montpellier
@@ -47,7 +47,7 @@ Scraping des sources...
   [21/47] Scraping : Le Silo Marseille
     → texte, 5769 chars
   [22/47] Scraping : Le Dôme Marseille
-    → erreur, 19 chars
+    → texte, 204 chars
   [23/47] Scraping : La Friche Belle de Mai
     → RSS, 3065 chars, 10 items
   [24/47] Scraping : Le Moulin Marseille
@@ -55,7 +55,7 @@ Scraping des sources...
   [25/47] Scraping : Théâtre de la Mer Sète
     → texte, 679 chars
   [26/47] Scraping : Scène de Bayssan Béziers
-    → texte, 1788 chars
+    → erreur, 19 chars
   [27/47] Scraping : JDS Humour Montpellier
     → JSON-LD, 8162 chars, 25 items
   [28/47] Scraping : JDS Humour Nîmes
@@ -89,13 +89,13 @@ Scraping des sources...
   [42/47] Scraping : Family Piknik Montpellier
     → texte, 81 chars
   [43/47] Scraping : CitizenKid Montpellier
-    → texte, 3785 chars
+    → texte, 4153 chars
   [44/47] Scraping : Kidiklik Montpellier-Nîmes
-    → texte, 3561 chars
+    → texte, 3382 chars
   [45/47] Scraping : AlloCiné Pathé Odysseum
-    → texte, 10694 chars
+    → texte, 7844 chars
   [46/47] Scraping : AlloCiné Mégarama Saint-Gély
-    → texte, 4560 chars
+    → texte, 4052 chars
   [47/47] Scraping : Arènes de Béziers Feria 2026
     → RSS, 2013 chars, 10 items
 Sauvegarde scrape_report.json...
@@ -136,15 +136,15 @@ Recherches Gemini Search (couche 3)...
   [Gemini 15/15] Films cinéma Pathé Odysseum
     → Erreur : ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-
   Gemini non disponible — pipeline continue avec scrape seul
-  Scrape tronqué : 174484 → 110000 chars
+  Scrape tronqué : 170343 → 110000 chars
   Contenu total Claude : 110000 chars (scrape seul)
 Conversion événements manuels...
   0 événements confirmés (agenda-config.md)
 Extraction nouveaux événements depuis le scrape + Gemini (claude-haiku-4-5)...
   [Claude raw début] '```json\n[{"date":"2026-11-21","titre":"Isild Le Besco, Dévoration","cat":"expo","lieu":"Sète","note":"Exposition pictural, 20 ans de pratique","fils":false,"stars":1,"section":"expos","url":"https://34.agendaculturel.fr/exposition/sete/isild-le-besco-devoration.html","gratuit":false,"groupe":""},{"d'
-  183 nouveaux événements extraits depuis les sources
-  Filtre scrapés : -23 passés, -0 génériques, 0 cat. corrigées → 160 retenus
-  Total : 160 événements (0 manuels + 160 scrapés)
+  113 nouveaux événements extraits depuis les sources
+  Filtre scrapés : -17 passés, -0 génériques, 0 cat. corrigées → 96 retenus
+  Total : 96 événements (0 manuels + 96 scrapés)
 Sauvegarde events_extracted.json...
 Injection dans template2.html...
 index.html généré avec succès.
