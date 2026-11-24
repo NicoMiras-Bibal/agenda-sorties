@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6634,
+      "chars": 6619,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5666,
+      "chars": 5605,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8779,
+      "chars": 8747,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,8 +29,8 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 7101,
-      "preview": "[RSS · 20 items] Isild Le Besco, Dévoration | Sat, 21 Nov 2026 | https://34.agendaculturel.fr/exposi"
+      "chars": 6973,
+      "preview": "[RSS · 20 items] Exposition Fushigi | Tue, 24 Nov 2026 | https://34.agendaculturel.fr/exposition/lun"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
@@ -38,15 +38,15 @@
       "method": "RSS",
       "items": 20,
       "chars": 6427,
-      "preview": "[RSS · 20 items] Festival du Livre de Pont-St-Esprit et du Gard Rhodanien | Sun, 22 Nov 2026 | https"
+      "preview": "[RSS · 20 items] À fleur de regard | Tue, 24 Nov 2026 | https://30.agendaculturel.fr/exposition/sauv"
     },
     {
       "name": "Agenda Culturel 13 Marseille",
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7221,
-      "preview": "[RSS · 20 items] Chimera de Marie de Villepin | Mon, 23 Nov 2026 | https://13.agendaculturel.fr/expo"
+      "chars": 7218,
+      "preview": "[RSS · 20 items] Chimera de Marie de Villepin | Tue, 24 Nov 2026 | https://13.agendaculturel.fr/expo"
     },
     {
       "name": "Montpellier Events",
@@ -165,16 +165,16 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 5769,
+      "chars": 5708,
       "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
       "name": "Le Dôme Marseille",
       "url": "https://dome.marseille.fr/programmation",
-      "method": "texte",
+      "method": "erreur",
       "items": 0,
-      "chars": 204,
-      "preview": "PROCHAINEMENT | Le Dôme de Marseille - Ville de Marseille Aller au contenu principal GOLDMEN : Conce"
+      "chars": 19,
+      "preview": "[Timeout après 10s]"
     },
     {
       "name": "La Friche Belle de Mai",
@@ -203,10 +203,10 @@
     {
       "name": "Scène de Bayssan Béziers",
       "url": "https://scene-de-bayssan.herault.fr/1090-programmation.htm",
-      "method": "erreur",
+      "method": "texte",
       "items": 0,
-      "chars": 19,
-      "preview": "[Timeout après 10s]"
+      "chars": 1777,
+      "preview": "Programme culturel | Scène de Bayssan - Site de la Scène de Bayssan Découvrez les sites et organisme"
     },
     {
       "name": "JDS Humour Montpellier",
@@ -220,9 +220,9 @@
       "name": "JDS Humour Nîmes",
       "url": "https://www.jds.fr/nimes/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
-      "items": 24,
-      "chars": 7812,
-      "preview": "[JSON-LD · 24 événements] Anthony Joubert - le Diner de Cons | 2027-01-17 | Vergeze Espace, Vergèze "
+      "items": 25,
+      "chars": 8125,
+      "preview": "[JSON-LD · 25 événements] Jeremy Charbonnel dans Seul tout | 2026-12-12 | Vergeze Espace, Vergèze | "
     },
     {
       "name": "Fnac Humour Montpellier",
@@ -237,8 +237,8 @@
       "url": "https://adamconcerts.com/programmation/theatre-humour/",
       "method": "RSS",
       "items": 10,
-      "chars": 2849,
-      "preview": "[RSS · 10 items] FOREVER 90’S | Thu, 19 Nov 2026 | https://adamconcerts.com/forever-90s-65728/ | Il "
+      "chars": 2875,
+      "preview": "[RSS · 10 items] MICHAËL GREGORIO SYMPHONIQUE | Tue, 24 Nov 2026 | https://adamconcerts.com/michael-"
     },
     {
       "name": "Marseille Comedy Club",
@@ -349,7 +349,7 @@
       "url": "https://montpellier-nimes.kidiklik.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 3382,
+      "chars": 3357,
       "preview": "Le meilleur des sorties pour enfants - Montpellier à Nîmes - Kidiklik Sorry, you need to enable Java"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 7844,
+      "chars": 9749,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 4052,
+      "chars": 5238,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -384,8 +384,8 @@
     "sources_jsonld": 4,
     "sources_text": 27,
     "sources_erreur": 2,
-    "total_items_structured": 203,
-    "total_chars": 166637
+    "total_items_structured": 204,
+    "total_chars": 171315
   },
-  "timestamp": "2026-11-23T17:18:00Z"
+  "timestamp": "2026-11-24T16:55:53Z"
 }
