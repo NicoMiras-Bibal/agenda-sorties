@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6619,
+      "chars": 6379,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8747,
+      "chars": 8723,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,15 +29,15 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 6973,
-      "preview": "[RSS · 20 items] Exposition Fushigi | Tue, 24 Nov 2026 | https://34.agendaculturel.fr/exposition/lun"
+      "chars": 6930,
+      "preview": "[RSS · 20 items] Exposition \"D'eux et d'ailleurs\" | Tue, 24 Nov 2026 | https://34.agendaculturel.fr/"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
       "url": "https://30.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6427,
+      "chars": 6463,
       "preview": "[RSS · 20 items] À fleur de regard | Tue, 24 Nov 2026 | https://30.agendaculturel.fr/exposition/sauv"
     },
     {
@@ -45,8 +45,8 @@
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 7218,
-      "preview": "[RSS · 20 items] Chimera de Marie de Villepin | Tue, 24 Nov 2026 | https://13.agendaculturel.fr/expo"
+      "chars": 7050,
+      "preview": "[RSS · 20 items] ExPop' Solidaire | Wed, 25 Nov 2026 | https://13.agendaculturel.fr/exposition/arles"
     },
     {
       "name": "Montpellier Events",
@@ -93,7 +93,7 @@
       "url": "https://www.victoire2.com/",
       "method": "texte",
       "items": 0,
-      "chars": 1806,
+      "chars": 1827,
       "preview": "Victoire 2 – Salle de concert et studios à Montpellier Passi + Tanis : le concert du samedi 31 octob"
     },
     {
@@ -147,10 +147,10 @@
     {
       "name": "Festival de Nîmes",
       "url": "https://www.festivaldenimes.com/programmation",
-      "method": "texte",
+      "method": "erreur",
       "items": 0,
-      "chars": 36,
-      "preview": "Artistes Archive - Festival de Nîmes"
+      "chars": 32,
+      "preview": "[Indisponible : ConnectionError]"
     },
     {
       "name": "Théâtre de Nîmes",
@@ -171,18 +171,18 @@
     {
       "name": "Le Dôme Marseille",
       "url": "https://dome.marseille.fr/programmation",
-      "method": "erreur",
+      "method": "texte",
       "items": 0,
-      "chars": 19,
-      "preview": "[Timeout après 10s]"
+      "chars": 204,
+      "preview": "PROCHAINEMENT | Le Dôme de Marseille - Ville de Marseille Aller au contenu principal GOLDMEN : Conce"
     },
     {
       "name": "La Friche Belle de Mai",
       "url": "https://www.lafriche.org/temps-forts/",
       "method": "RSS",
       "items": 10,
-      "chars": 3065,
-      "preview": "[RSS · 10 items] La Friche la Belle de Mai, 30 ans d’expérimentation de pratiques de coopération | W"
+      "chars": 3163,
+      "preview": "[RSS · 10 items] Les structures de la Friche se mobilisent et prennent la parole | Wed, 25 Nov 2026 "
     },
     {
       "name": "Le Moulin Marseille",
@@ -221,7 +221,7 @@
       "url": "https://www.jds.fr/nimes/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
       "items": 25,
-      "chars": 8125,
+      "chars": 8042,
       "preview": "[JSON-LD · 25 événements] Jeremy Charbonnel dans Seul tout | 2026-12-12 | Vergeze Espace, Vergèze | "
     },
     {
@@ -349,7 +349,7 @@
       "url": "https://montpellier-nimes.kidiklik.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 3357,
+      "chars": 3593,
       "preview": "Le meilleur des sorties pour enfants - Montpellier à Nîmes - Kidiklik Sorry, you need to enable Java"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 9749,
+      "chars": 7791,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 5238,
+      "chars": 3867,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -385,7 +385,7 @@
     "sources_text": 27,
     "sources_erreur": 2,
     "total_items_structured": 204,
-    "total_chars": 171315
+    "total_chars": 168000
   },
-  "timestamp": "2026-11-24T16:55:53Z"
+  "timestamp": "2026-11-25T16:44:40Z"
 }

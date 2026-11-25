@@ -1,21 +1,21 @@
-[generate.py] 2026-11-24
+[generate.py] 2026-11-25
 Lecture agenda-config.md...
   29 événements manuels
 /home/runner/work/agenda-sorties/agenda-sorties/generate.py:346: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   ts = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 Scraping des sources...
   [1/47] Scraping : JDS Montpellier
-    → texte, 6619 chars
+    → texte, 6379 chars
   [2/47] Scraping : JDS Nîmes
     → texte, 5605 chars
   [3/47] Scraping : JDS Marseille
-    → texte, 8747 chars
+    → texte, 8723 chars
   [4/47] Scraping : Agenda Culturel 34 Montpellier
-    → RSS, 6973 chars, 20 items
+    → RSS, 6930 chars, 20 items
   [5/47] Scraping : Agenda Culturel 30 Nîmes
-    → RSS, 6427 chars, 20 items
+    → RSS, 6463 chars, 20 items
   [6/47] Scraping : Agenda Culturel 13 Marseille
-    → RSS, 7218 chars, 20 items
+    → RSS, 7050 chars, 20 items
   [7/47] Scraping : Montpellier Events
     → texte, 887 chars
   [8/47] Scraping : IciSète
@@ -27,7 +27,7 @@ Scraping des sources...
   [11/47] Scraping : Le Corum Montpellier
     → texte, 580 chars
   [12/47] Scraping : Victoire 2 Saint-Jean-de-Védas
-    → texte, 1806 chars
+    → texte, 1827 chars
   [13/47] Scraping : Théâtre Jean Vilar Montpellier
     → texte, 3751 chars
   [14/47] Scraping : Opéra Comédie Montpellier
@@ -41,15 +41,15 @@ Scraping des sources...
   [18/47] Scraping : Paloma Nîmes
     → RSS, 3900 chars, 10 items
   [19/47] Scraping : Festival de Nîmes
-    → texte, 36 chars
+    → erreur, 32 chars
   [20/47] Scraping : Théâtre de Nîmes
     → RSS, 1732 chars, 10 items
   [21/47] Scraping : Le Silo Marseille
     → texte, 5708 chars
   [22/47] Scraping : Le Dôme Marseille
-    → erreur, 19 chars
+    → texte, 204 chars
   [23/47] Scraping : La Friche Belle de Mai
-    → RSS, 3065 chars, 10 items
+    → RSS, 3163 chars, 10 items
   [24/47] Scraping : Le Moulin Marseille
     → texte, 147 chars
   [25/47] Scraping : Théâtre de la Mer Sète
@@ -59,7 +59,7 @@ Scraping des sources...
   [27/47] Scraping : JDS Humour Montpellier
     → JSON-LD, 8162 chars, 25 items
   [28/47] Scraping : JDS Humour Nîmes
-    → JSON-LD, 8125 chars, 25 items
+    → JSON-LD, 8042 chars, 25 items
   [29/47] Scraping : Fnac Humour Montpellier
     → erreur, 19 chars
   [30/47] Scraping : Adam Concerts Humour
@@ -91,11 +91,11 @@ Scraping des sources...
   [43/47] Scraping : CitizenKid Montpellier
     → texte, 4153 chars
   [44/47] Scraping : Kidiklik Montpellier-Nîmes
-    → texte, 3357 chars
+    → texte, 3593 chars
   [45/47] Scraping : AlloCiné Pathé Odysseum
-    → texte, 9749 chars
+    → texte, 7791 chars
   [46/47] Scraping : AlloCiné Mégarama Saint-Gély
-    → texte, 5238 chars
+    → texte, 3867 chars
   [47/47] Scraping : Arènes de Béziers Feria 2026
     → RSS, 2013 chars, 10 items
 Sauvegarde scrape_report.json...
@@ -136,15 +136,15 @@ Recherches Gemini Search (couche 3)...
   [Gemini 15/15] Films cinéma Pathé Odysseum
     → Erreur : ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-
   Gemini non disponible — pipeline continue avec scrape seul
-  Scrape tronqué : 175021 → 110000 chars
+  Scrape tronqué : 171706 → 110000 chars
   Contenu total Claude : 110000 chars (scrape seul)
 Conversion événements manuels...
   0 événements confirmés (agenda-config.md)
 Extraction nouveaux événements depuis le scrape + Gemini (claude-haiku-4-5)...
-  [Claude raw début] '```json\n[{"date":"2026-11-24","titre":"Prison Island - Jeu d\'évasion","cat":"activite","lieu":"Nîmes","note":"Résoudre des épreuves en équipe dans 23 cellules","fils":true,"stars":1,"section":"activites","url":"https://30.agendaculturel.fr/","gratuit":false,"groupe":""},{"date":"2026-11-26","titre":'
-  91 nouveaux événements extraits depuis les sources
-  Filtre scrapés : -0 passés, -0 génériques, 0 cat. corrigées → 91 retenus
-  Total : 91 événements (0 manuels + 91 scrapés)
+  [Claude raw début] '```json\n[{"date":"2026-11-26","titre":"Art Montpellier","cat":"festival","lieu":"Montpellier, Pérols","note":"Foire d\'art contemporain","fils":false,"stars":2,"section":"expos","url":"https://www.jds.fr/montpellier/agenda/","gratuit":false,"groupe":""},{"date":"2026-11-27","titre":"Bigflo & Oli - Ka'
+  211 nouveaux événements extraits depuis les sources
+  Filtre scrapés : -30 passés, -0 génériques, 0 cat. corrigées → 181 retenus
+  Total : 181 événements (0 manuels + 181 scrapés)
 Sauvegarde events_extracted.json...
 Injection dans template2.html...
 index.html généré avec succès.
