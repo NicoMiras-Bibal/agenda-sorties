@@ -5,7 +5,7 @@
       "url": "https://www.jds.fr/montpellier/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 6458,
+      "chars": 6486,
       "preview": "Montpellier - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concer"
     },
     {
@@ -13,7 +13,7 @@
       "url": "https://www.jds.fr/nimes/agenda/",
       "method": "texte",
       "items": 0,
-      "chars": 5551,
+      "chars": 5491,
       "preview": "Nîmes - L’agenda des événements, spectacles, concerts et expos Concert, spectacle, etc. Concert, spe"
     },
     {
@@ -21,7 +21,7 @@
       "url": "https://www.jds.fr/marseille/",
       "method": "texte",
       "items": 0,
-      "chars": 8541,
+      "chars": 8573,
       "preview": "Que faire et visiter à Marseille : les meilleures idées sorties et loisirs près de chez vous Concert"
     },
     {
@@ -29,8 +29,8 @@
       "url": "https://34.agendaculturel.fr/agenda-culturel/montpellier/",
       "method": "RSS",
       "items": 20,
-      "chars": 6917,
-      "preview": "[RSS · 20 items] Concert Guerta + Ekloz | Thu, 26 Nov 2026 | https://34.agendaculturel.fr/concert/mo"
+      "chars": 6661,
+      "preview": "[RSS · 20 items] Exposition Nathalie Palacin | Tue, 24 Nov 2026 | https://34.agendaculturel.fr/expos"
     },
     {
       "name": "Agenda Culturel 30 Nîmes",
@@ -45,15 +45,15 @@
       "url": "https://13.agendaculturel.fr/",
       "method": "RSS",
       "items": 20,
-      "chars": 6916,
-      "preview": "[RSS · 20 items] Soirée de soutien à la Legal Team | Thu, 26 Nov 2026 | https://13.agendaculturel.fr"
+      "chars": 6795,
+      "preview": "[RSS · 20 items] Malices et simulacres | Fri, 27 Nov 2026 | https://13.agendaculturel.fr/exposition/"
     },
     {
       "name": "Montpellier Events",
       "url": "https://www.montpellier-events.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 887,
+      "chars": 898,
       "preview": "L'agenda et la programmation - Montpellier Events Retrouvez ici toute la programmation du Rechercher"
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://icisete.fr/",
       "method": "RSS",
       "items": 5,
-      "chars": 1976,
-      "preview": "[RSS · 5 items] Résidences artistiques sur le bassin de Thau : 8 projets dans 14 communes | Thu, 26 "
+      "chars": 1977,
+      "preview": "[RSS · 5 items] Premier marché artisanal de Noël à Sète : 70 exposants les 28 et 29 novembre | Thu, "
     },
     {
       "name": "EscapadesLR Hérault",
@@ -85,15 +85,15 @@
       "url": "https://www.corum-montpellier.com/fr/agenda",
       "method": "texte",
       "items": 0,
-      "chars": 580,
-      "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... TRANSFÉRÉ À PATHE"
+      "chars": 591,
+      "preview": "L'agenda et la programmation - Corum Montpellier Nom d'artiste, spectacle, etc ... transféré au V St"
     },
     {
       "name": "Victoire 2 Saint-Jean-de-Védas",
       "url": "https://www.victoire2.com/",
       "method": "texte",
       "items": 0,
-      "chars": 1847,
+      "chars": 1881,
       "preview": "Victoire 2 – Salle de concert et studios à Montpellier Passi + Tanis : le concert du samedi 31 octob"
     },
     {
@@ -165,7 +165,7 @@
       "url": "https://www.cepacsilo-marseille.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 5884,
+      "chars": 5874,
       "preview": "Cepac Silo - Marseille | Site officiel Cepac Silo – Site officiel | Billetterie concerts & spectacle"
     },
     {
@@ -203,10 +203,10 @@
     {
       "name": "Scène de Bayssan Béziers",
       "url": "https://scene-de-bayssan.herault.fr/1090-programmation.htm",
-      "method": "texte",
+      "method": "erreur",
       "items": 0,
-      "chars": 1861,
-      "preview": "Programme culturel | Scène de Bayssan - Site de la Scène de Bayssan Découvrez les sites et organisme"
+      "chars": 19,
+      "preview": "[Timeout après 10s]"
     },
     {
       "name": "JDS Humour Montpellier",
@@ -221,7 +221,7 @@
       "url": "https://www.jds.fr/nimes/agenda/humour-comedie-22_B",
       "method": "JSON-LD",
       "items": 25,
-      "chars": 8060,
+      "chars": 8077,
       "preview": "[JSON-LD · 25 événements] Jérémy Charbonnel - Seul Tout - Tournée | 2026-12-12 | Vergeze Espace, Ver"
     },
     {
@@ -237,8 +237,8 @@
       "url": "https://adamconcerts.com/programmation/theatre-humour/",
       "method": "RSS",
       "items": 10,
-      "chars": 2923,
-      "preview": "[RSS · 10 items] LÉGENDE BALAVOINE | Thu, 26 Nov 2026 | https://adamconcerts.com/legende-balavoine-2"
+      "chars": 2895,
+      "preview": "[RSS · 10 items] GOSPEL POUR 100 VOIX | Fri, 27 Nov 2026 | https://adamconcerts.com/gospel-pour-100-"
     },
     {
       "name": "Marseille Comedy Club",
@@ -349,7 +349,7 @@
       "url": "https://montpellier-nimes.kidiklik.fr/",
       "method": "texte",
       "items": 0,
-      "chars": 3593,
+      "chars": 3813,
       "preview": "Le meilleur des sorties pour enfants - Montpellier à Nîmes - Kidiklik Sorry, you need to enable Java"
     },
     {
@@ -357,7 +357,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=P0702.html",
       "method": "texte",
       "items": 0,
-      "chars": 7285,
+      "chars": 8633,
       "preview": "Cinéma Pathé Montpellier Odysseum - IMAX à Montpellier (34000 ) - Achat ticket cinéma disponible - A"
     },
     {
@@ -365,7 +365,7 @@
       "url": "https://www.allocine.fr/seance/salle_gen_csalle=W4980.html",
       "method": "texte",
       "items": 0,
-      "chars": 3890,
+      "chars": 4237,
       "preview": "Cinéma Mégarama Saint Gely à Saint-Gély-du-Fesc (34980 ) - Achat ticket cinéma disponible - AlloCiné"
     },
     {
@@ -382,10 +382,10 @@
     "sources_skip": 0,
     "sources_rss": 14,
     "sources_jsonld": 4,
-    "sources_text": 28,
-    "sources_erreur": 1,
+    "sources_text": 27,
+    "sources_erreur": 2,
     "total_items_structured": 204,
-    "total_chars": 168136
+    "total_chars": 167868
   },
-  "timestamp": "2026-11-26T16:19:45Z"
+  "timestamp": "2026-11-27T16:04:37Z"
 }
